@@ -1,0 +1,2525 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65287833333333, 45.55197833333333]
+            },
+            "properties": {
+                "name": "0723 BIKETOWN",
+                "inside_area": true,
+                "address": "1236 Northeast Shaver Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67245166666666, 45.524225]
+            },
+            "properties": {
+                "name": "0715 BIKETOWN",
+                "inside_area": true,
+                "address": "123 Northwest 2nd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68192666666667, 45.50546833333333]
+            },
+            "properties": {
+                "name": "0341 BIKETOWN",
+                "inside_area": true,
+                "address": "2400 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65450666666666, 45.511246666666665]
+            },
+            "properties": {
+                "name": "0465 BIKETOWN",
+                "inside_area": true,
+                "address": "1616 Southeast 11th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.70594333333334, 45.53295333333333]
+            },
+            "properties": {
+                "name": "0002 BIKETOWN",
+                "inside_area": true,
+                "address": "1445 Northwest 26th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68042666666666, 45.547865]
+            },
+            "properties": {
+                "name": "0399 BIKETOWN",
+                "inside_area": true,
+                "address": "Kaiser Interstate Optical, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.62256333333333, 45.493721666666666]
+            },
+            "properties": {
+                "name": "0015 BIKETOWN",
+                "inside_area": true,
+                "address": "Southeast César E. Chávez Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66391833333333, 45.51881]
+            },
+            "properties": {
+                "name": "0948 DESIGN BIKE, COLORFUL PORTLAND NW",
+                "inside_area": true,
+                "address": "107 Southeast Washington Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64833, 45.489565]
+            },
+            "properties": {
+                "name": "0054 BIKETOWN",
+                "inside_area": true,
+                "address": "4534 Southeast 17th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.62359, 45.512945]
+            },
+            "properties": {
+                "name": "0292 BIKETOWN",
+                "inside_area": true,
+                "address": "3805 Southeast Hawthorne Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67175, 45.52137666666667]
+            },
+            "properties": {
+                "name": "0616 BIKETOWN",
+                "inside_area": true,
+                "address": "City Center Parking, Southwest 1st Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.659715, 45.507373333333334]
+            },
+            "properties": {
+                "name": "0197 BIKETOWN",
+                "inside_area": true,
+                "address": "2100-2198 Southeast 6th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65863833333333, 45.54139]
+            },
+            "properties": {
+                "name": "0078 BIKETOWN",
+                "inside_area": true,
+                "address": "2602, Northeast 7th Avenue, Irvington, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.657775, 45.513598333333334]
+            },
+            "properties": {
+                "name": "0179 BIKETOWN",
+                "inside_area": true,
+                "address": "706-798 Southeast Main Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66068333333334, 45.51660666666667]
+            },
+            "properties": {
+                "name": "0224 BIKETOWN",
+                "inside_area": true,
+                "address": "860-898 Southeast Grand Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66501666666667, 45.5187]
+            },
+            "properties": {
+                "name": "0195 BIKETOWN",
+                "inside_area": true,
+                "address": "Vaughan Bros., 88, Southeast Washington Street, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.683495, 45.50940333333333]
+            },
+            "properties": {
+                "name": "1019 MSS AIR SAFARI",
+                "inside_area": true,
+                "address": "Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.6803, 45.53033833333333]
+            },
+            "properties": {
+                "name": "0452 BIKETOWN",
+                "inside_area": true,
+                "address": "1006-1014 Northwest 9th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63961166666667, 45.49867]
+            },
+            "properties": {
+                "name": "1014 DESIGN BIKE, NE CYCLING LIFE ",
+                "inside_area": true,
+                "address": "3324-3388 Southeast 26th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.680245, 45.521663333333336]
+            },
+            "properties": {
+                "name": "0690 BIKETOWN",
+                "inside_area": true,
+                "address": "Downtown Community Public Safety Office, 409, Southwest 9th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68453, 45.50579]
+            },
+            "properties": {
+                "name": "0220 BIKETOWN",
+                "inside_area": false,
+                "address": "615 Southwest Caruthers Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66655166666666, 45.51518]
+            },
+            "properties": {
+                "name": "0685 BIKETOWN",
+                "inside_area": true,
+                "address": "1-49 Southeast Taylor Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66169833333333, 45.522936666666666]
+            },
+            "properties": {
+                "name": "0759 BIKETOWN ",
+                "inside_area": true,
+                "address": "400 East Burnside Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63961833333333, 45.497263333333336]
+            },
+            "properties": {
+                "name": "0471 BIKETOWN",
+                "inside_area": true,
+                "address": "SEIU Local 49, 3536, Southeast 26th Avenue, Creston-Kenilworth, Brooklyn, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67654, 45.52726333333333]
+            },
+            "properties": {
+                "name": "0934 DESIGN BIKE, WATERFRONT WANDERER SW",
+                "inside_area": true,
+                "address": "Union Station/Northwest 6th & Hoyt, Northwest 6th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68170666666667, 45.517516666666666]
+            },
+            "properties": {
+                "name": "0686 BIKETOWN",
+                "inside_area": true,
+                "address": "Arlene Schnitzer Concert Hall, 1037, Southwest Broadway, University District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63955833333333, 45.499736666666664]
+            },
+            "properties": {
+                "name": "0594 BIKETOWN",
+                "inside_area": true,
+                "address": "3204, Southeast 26th Avenue, Creston-Kenilworth, Brooklyn, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.57953, 45.50487666666667]
+            },
+            "properties": {
+                "name": "0553 BIKETOWN",
+                "inside_area": false,
+                "address": "8100-8112 Southeast Division Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68525833333334, 45.527206666666665]
+            },
+            "properties": {
+                "name": "0137 BIKETOWN",
+                "inside_area": true,
+                "address": "Parklane Mattresses, 536, Northwest 14th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68088833333333, 45.52947666666667]
+            },
+            "properties": {
+                "name": "0303 BIKETOWN",
+                "inside_area": true,
+                "address": "910 Northwest 10th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65257333333334, 45.559555]
+            },
+            "properties": {
+                "name": "0505 BIKETOWN",
+                "inside_area": true,
+                "address": "5028 Northeast 13th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65989666666667, 45.507845]
+            },
+            "properties": {
+                "name": "1016 AIR SAFARI",
+                "inside_area": true,
+                "address": "2101, Southeast 6th Avenue, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.643375, 45.520085]
+            },
+            "properties": {
+                "name": "0248 BIKETOWN",
+                "inside_area": true,
+                "address": "310-398 Southeast 22nd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68116166666667, 45.54604666666667]
+            },
+            "properties": {
+                "name": "0775 BIKETOWN",
+                "inside_area": true,
+                "address": "3265 North Interstate Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66068833333334, 45.51667]
+            },
+            "properties": {
+                "name": "0709 BIKETOWN",
+                "inside_area": true,
+                "address": "860-898 Southeast Grand Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69257166666667, 45.52908166666667]
+            },
+            "properties": {
+                "name": "0035 BIKETOWN",
+                "inside_area": true,
+                "address": "The John & Marlis Carson Center, 2010, Northwest Kearney Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.640135, 45.49359]
+            },
+            "properties": {
+                "name": "0390 BIKETOWN",
+                "inside_area": true,
+                "address": "4031 Southeast 26th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69159666666667, 45.52495]
+            },
+            "properties": {
+                "name": "0442 BIKETOWN",
+                "inside_area": true,
+                "address": "1956 Northwest Everett Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.70825666666667, 45.538866666666664]
+            },
+            "properties": {
+                "name": "0222 BIKETOWN",
+                "inside_area": true,
+                "address": "2765 Northwest Nicolai Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68771833333334, 45.51307666666666]
+            },
+            "properties": {
+                "name": "0903 BIKETOWN",
+                "inside_area": true,
+                "address": "1136 Southwest Montgomery Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64623333333333, 45.55177]
+            },
+            "properties": {
+                "name": "0036 BIKETOWN",
+                "inside_area": true,
+                "address": "3946-3998 Northeast 19th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64647166666667, 45.523625]
+            },
+            "properties": {
+                "name": "0843 BIKETOWN",
+                "inside_area": true,
+                "address": "1905 Northeast Couch Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68061, 45.52122]
+            },
+            "properties": {
+                "name": "0678 BIKETOWN",
+                "inside_area": true,
+                "address": "909 Southwest Washington Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68342666666666, 45.52373333333333]
+            },
+            "properties": {
+                "name": "0788 BIKETOWN",
+                "inside_area": true,
+                "address": "1201 Northwest Couch Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.679935, 45.523698333333336]
+            },
+            "properties": {
+                "name": "0868 BIKETOWN",
+                "inside_area": true,
+                "address": "Pearl Bakery, 102, Northwest 9th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68342, 45.52719333333334]
+            },
+            "properties": {
+                "name": "0208 BIKETOWN",
+                "inside_area": true,
+                "address": "¡Oba!, 555, Northwest Hoyt Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.645575, 45.522125]
+            },
+            "properties": {
+                "name": "0665 BIKETOWN",
+                "inside_area": true,
+                "address": "101-125 Southeast 20th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69172666666667, 45.51647666666667]
+            },
+            "properties": {
+                "name": "0508 BIKETOWN",
+                "inside_area": true,
+                "address": "1630 Southwest Clay Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.672545, 45.523763333333335]
+            },
+            "properties": {
+                "name": "0990 BETRUE 2018 TRAINER",
+                "inside_area": true,
+                "address": "208 Northwest Couch Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69175666666666, 45.522603333333336]
+            },
+            "properties": {
+                "name": "0180 BIKETOWN",
+                "inside_area": true,
+                "address": "1844-1998 Southwest Morrison Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65033333333334, 45.531395]
+            },
+            "properties": {
+                "name": "0144 BIKETOWN",
+                "inside_area": true,
+                "address": "1510 Northeast Multnomah Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67855, 45.526965]
+            },
+            "properties": {
+                "name": "1025 AIR SAFARI",
+                "inside_area": true,
+                "address": "Pacific Northwest College of Art - Schnitzer Center, 511, Northwest Broadway, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.61195166666667, 45.539613333333335]
+            },
+            "properties": {
+                "name": "0708 BIKETOWN",
+                "inside_area": true,
+                "address": "2425 Northeast 50th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68474666666667, 45.5068]
+            },
+            "properties": {
+                "name": "0931 BETRUE MAX ",
+                "inside_area": false,
+                "address": "2221 Southwest 6th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67511, 45.52297166666666]
+            },
+            "properties": {
+                "name": "0950 DESIGN BIKE, COLORFUL PORTLAND NW",
+                "inside_area": true,
+                "address": "498-496 West Burnside Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67052666666666, 45.52392833333333]
+            },
+            "properties": {
+                "name": "0972 BETRUE 2018 TRAINER",
+                "inside_area": true,
+                "address": "1-75 Northwest Couch Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.708265, 45.538845]
+            },
+            "properties": {
+                "name": "0954 DESIGN BIKE, COLORFUL PORTLAND NW",
+                "inside_area": true,
+                "address": "2765 Northwest Nicolai Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.674085, 45.52075166666667]
+            },
+            "properties": {
+                "name": "0334 BIKETOWN",
+                "inside_area": true,
+                "address": "300 Southwest 3rd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.70521333333333, 45.533035]
+            },
+            "properties": {
+                "name": "0726 BIKETOWN",
+                "inside_area": true,
+                "address": "1445 Northwest 26th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63081, 45.511986666666665]
+            },
+            "properties": {
+                "name": "0182 BIKETOWN",
+                "inside_area": true,
+                "address": "3294, Southeast Hawthorne Boulevard, Ladd's Addition, Belmont, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67613833333333, 45.517705]
+            },
+            "properties": {
+                "name": "0907 BIKETOWN",
+                "inside_area": true,
+                "address": "309-315 Southwest Yamhill Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69091166666666, 45.53713166666667]
+            },
+            "properties": {
+                "name": "0290 BIKETOWN ",
+                "inside_area": true,
+                "address": "1901-1913 Northwest Vaughn Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68023166666667, 45.528025]
+            },
+            "properties": {
+                "name": "0774 BIKETOWN",
+                "inside_area": true,
+                "address": "Patagonia, 907, Northwest Irving Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67525833333333, 45.540965]
+            },
+            "properties": {
+                "name": "0283 BIKETOWN",
+                "inside_area": true,
+                "address": "White Eagle Saloon, 836, North Russell Street, Albina, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66303833333333, 45.55218166666667]
+            },
+            "properties": {
+                "name": "0994 BETRUE 2018 TRAINER ",
+                "inside_area": true,
+                "address": "235 Northeast Shaver Street, Portland, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66901166666666, 45.53510166666667]
+            },
+            "properties": {
+                "name": "0824  BIKETOWN",
+                "inside_area": true,
+                "address": "1700-1756 North Wheeler Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.654655, 45.50521333333333]
+            },
+            "properties": {
+                "name": "0545 BIKETOWN",
+                "inside_area": true,
+                "address": "2442, Southeast 11th Avenue, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.657385, 45.53514166666667]
+            },
+            "properties": {
+                "name": "0653 BIKETOWN",
+                "inside_area": true,
+                "address": "801 Northeast Broadway Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66426, 45.53897]
+            },
+            "properties": {
+                "name": "0090 BIKETOWN",
+                "inside_area": true,
+                "address": "76-98 Northeast Thompson Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.659765, 45.52377166666667]
+            },
+            "properties": {
+                "name": "0417 BIKETOWN",
+                "inside_area": true,
+                "address": "116, Northeast 6th Avenue, Ladd's Addition, Lloyd District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64605333333333, 45.504755]
+            },
+            "properties": {
+                "name": "0229 BIKETOWN",
+                "inside_area": true,
+                "address": "1954-1964 Southeast Division Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67574333333333, 45.519416666666665]
+            },
+            "properties": {
+                "name": "0190 BIKETOWN",
+                "inside_area": true,
+                "address": "518 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67635666666666, 45.51690833333333]
+            },
+            "properties": {
+                "name": "0988 DESIGN BIKE, N PAUL BUNYAN",
+                "inside_area": true,
+                "address": "Bangkok Palace, 300, Southwest Taylor Street, University District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68092, 45.528305]
+            },
+            "properties": {
+                "name": "0118 BIKETOWN",
+                "inside_area": true,
+                "address": "Hotlips Pizza, 721, Northwest 9th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.663835, 45.531965]
+            },
+            "properties": {
+                "name": "0830 BIKETOWN",
+                "inside_area": true,
+                "address": ", Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67106666666666, 45.533425]
+            },
+            "properties": {
+                "name": "1024 DESIGN BIKE, NE CYCLING LIFE ",
+                "inside_area": true,
+                "address": "1200-1478 North Larrabee Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65474833333333, 45.506661666666666]
+            },
+            "properties": {
+                "name": "0961 DESIGN BIKE, WATERFRONT WANDERER SW ",
+                "inside_area": true,
+                "address": "Southeast 11th & Sherman, Southeast 11th Avenue, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.663985, 45.513753333333334]
+            },
+            "properties": {
+                "name": "1001 AIR SAFARI ",
+                "inside_area": true,
+                "address": "211, Southeast Madison Street, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.699025, 45.524186666666665]
+            },
+            "properties": {
+                "name": "0955 DESIGN BIKE, COLORFUL PORTLAND NW",
+                "inside_area": true,
+                "address": "2345-2353 Northwest Westover Road, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66543833333333, 45.53031333333333]
+            },
+            "properties": {
+                "name": "0734 BIKETOWN ",
+                "inside_area": true,
+                "address": "Interstate 5, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66123833333333, 45.554575]
+            },
+            "properties": {
+                "name": "0151 BIKETOWN",
+                "inside_area": true,
+                "address": "4232, Northeast Skidmore Street, Irvington, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67688166666667, 45.523755]
+            },
+            "properties": {
+                "name": "0688 BIKETOWN",
+                "inside_area": true,
+                "address": "Macdonald Center, 605, Northwest Couch Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.71242166666667, 45.53575]
+            },
+            "properties": {
+                "name": "0586 BIKETOWN",
+                "inside_area": false,
+                "address": "Macleay Park, Lower Macleay Trail, Willamette Heights, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66096666666667, 45.52103666666667]
+            },
+            "properties": {
+                "name": "0647 BIKETOWN",
+                "inside_area": true,
+                "address": "407 Southeast Pine Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.673945, 45.52582833333334]
+            },
+            "properties": {
+                "name": "0601 BIKETOWN",
+                "inside_area": true,
+                "address": "310 Northwest Flanders Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68083833333333, 45.517338333333335]
+            },
+            "properties": {
+                "name": "0048 BIKETOWN",
+                "inside_area": true,
+                "address": "Cacao, 712, Southwest Salmon Street, University District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67149833333333, 45.52394]
+            },
+            "properties": {
+                "name": "0496 BIKETOWN ",
+                "inside_area": true,
+                "address": "101-107 Northwest Couch Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68002833333334, 45.52370333333333]
+            },
+            "properties": {
+                "name": "0767 BIKETOWN ",
+                "inside_area": true,
+                "address": "808 Northwest Couch Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68336166666667, 45.524208333333334]
+            },
+            "properties": {
+                "name": "0305 BIKETOWN",
+                "inside_area": true,
+                "address": "1202 Northwest Davis Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65859833333333, 45.514606666666666]
+            },
+            "properties": {
+                "name": "0171 BIKETOWN ",
+                "inside_area": true,
+                "address": "1150-1198 Southeast 7th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65969, 45.52278833333333]
+            },
+            "properties": {
+                "name": "0765 BIKETOWN",
+                "inside_area": true,
+                "address": "15 Southeast 6th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63316, 45.534346666666664]
+            },
+            "properties": {
+                "name": "0892 BIKETOWN",
+                "inside_area": true,
+                "address": "1580 Northeast 32nd Avenue, Portland, OR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65903666666667, 45.511445]
+            },
+            "properties": {
+                "name": "0202 BIKETOWN",
+                "inside_area": true,
+                "address": "1605 Southeast 7th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63985666666666, 45.493318333333335]
+            },
+            "properties": {
+                "name": "0102 BIKETOWN",
+                "inside_area": true,
+                "address": "2512 Southeast Gladstone Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67409333333333, 45.52075333333333]
+            },
+            "properties": {
+                "name": "0357 BIKETOWN",
+                "inside_area": true,
+                "address": "300 Southwest 3rd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69832, 45.52406833333333]
+            },
+            "properties": {
+                "name": "0951  DESIGN BIKE, WATERFRONT WANDERER SW",
+                "inside_area": true,
+                "address": "Uptown Billiards, Northwest 23rd Avenue, Kings Heights, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65363, 45.510315]
+            },
+            "properties": {
+                "name": "0719 BIKETOWN",
+                "inside_area": true,
+                "address": "1734 Southeast 12th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.671435, 45.52439833333333]
+            },
+            "properties": {
+                "name": "0610 BIKETOWN",
+                "inside_area": true,
+                "address": "115, Northwest 1st Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.680115, 45.52207166666667]
+            },
+            "properties": {
+                "name": "0056 BIKETOWN",
+                "inside_area": true,
+                "address": "Jive Software, 915, Southwest Stark Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65868666666667, 45.541425]
+            },
+            "properties": {
+                "name": "0873 BIKETOWN",
+                "inside_area": true,
+                "address": "2601-2603 Northeast 7th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.680475, 45.51061333333333]
+            },
+            "properties": {
+                "name": "0684 BIKETOWN ",
+                "inside_area": true,
+                "address": "U-Park, Southwest Montgomery Street, Cyan, University District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66312, 45.513753333333334]
+            },
+            "properties": {
+                "name": "0874 BIKETOWN",
+                "inside_area": true,
+                "address": "221 Southeast Main Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67655833333333, 45.527165]
+            },
+            "properties": {
+                "name": "0369 BIKETOWN",
+                "inside_area": true,
+                "address": "Union Station/Northwest 6th & Hoyt, Northwest 6th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69081, 45.53619333333333]
+            },
+            "properties": {
+                "name": "0834 BIKETOWN",
+                "inside_area": true,
+                "address": "1825 Northwest 19th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67972666666667, 45.52364]
+            },
+            "properties": {
+                "name": "0736 BIKETOWN",
+                "inside_area": true,
+                "address": "34, Northwest 9th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.61971833333334, 45.533665]
+            },
+            "properties": {
+                "name": "0987 BLACK HISTORY MONTH ",
+                "inside_area": true,
+                "address": "4246-4254 Northeast Halsey Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65861666666666, 45.52215666666667]
+            },
+            "properties": {
+                "name": "0599 BIKETOWN",
+                "inside_area": true,
+                "address": "700-720 Southeast Ankeny Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.695525, 45.562956666666665]
+            },
+            "properties": {
+                "name": "0346 BIKETOWN",
+                "inside_area": true,
+                "address": "5526, North Greeley Avenue, Kenton, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69179833333334, 45.5164]
+            },
+            "properties": {
+                "name": "0011 BIKETOWN",
+                "inside_area": true,
+                "address": "1630 Southwest Clay Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67388333333334, 45.51137333333333]
+            },
+            "properties": {
+                "name": "0206 BIKETOWN",
+                "inside_area": true,
+                "address": "1510 Southwest Harbor Way, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66879666666667, 45.53870166666667]
+            },
+            "properties": {
+                "name": "0230 BIKETOWN",
+                "inside_area": true,
+                "address": "2125 North Flint Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66865333333334, 45.54006]
+            },
+            "properties": {
+                "name": "0456 BIKETOWN",
+                "inside_area": true,
+                "address": "2326 North Flint Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.652695, 45.561856666666664]
+            },
+            "properties": {
+                "name": "0087 BIKETOWN",
+                "inside_area": true,
+                "address": "1221 Northeast Emerson Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.685155, 45.52392833333333]
+            },
+            "properties": {
+                "name": "0459 BIKETOWN",
+                "inside_area": true,
+                "address": "First American Title, 120, Northwest 14th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.663685, 45.52008]
+            },
+            "properties": {
+                "name": "0356 BIKETOWN",
+                "inside_area": true,
+                "address": "Johnny Law Motors, 201, Southeast Oak Street, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.62817166666666, 45.51615666666667]
+            },
+            "properties": {
+                "name": "0997 BETRUE 2018 TRAINER",
+                "inside_area": true,
+                "address": "901-915 Southeast 35th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64604666666666, 45.52583]
+            },
+            "properties": {
+                "name": "0796 BIKETOWN",
+                "inside_area": true,
+                "address": "2034B Northeast Flanders Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.674735, 45.52196]
+            },
+            "properties": {
+                "name": "0306 BIKETOWN ",
+                "inside_area": true,
+                "address": "The Natural Nails, 337, Southwest Pine Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63418, 45.516398333333335]
+            },
+            "properties": {
+                "name": "0558 BIKETOWN",
+                "inside_area": true,
+                "address": "3010, Southeast Belmont Street, Belmont, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63032166666666, 45.512103333333336]
+            },
+            "properties": {
+                "name": "0070 BIKETOWN",
+                "inside_area": true,
+                "address": "3325 Southeast Hawthorne Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64949833333333, 45.49397666666667]
+            },
+            "properties": {
+                "name": "0865 BIKETOWN",
+                "inside_area": true,
+                "address": "1534, Southeast Center Street, Creston-Kenilworth, Brooklyn, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65562333333334, 45.515745]
+            },
+            "properties": {
+                "name": "0401 BIKETOWN",
+                "inside_area": true,
+                "address": "1000-1098 Southeast 10th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67579, 45.52183333333333]
+            },
+            "properties": {
+                "name": "0802 BIKETOWN",
+                "inside_area": true,
+                "address": "208 Southwest 5th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67493833333333, 45.527318333333334]
+            },
+            "properties": {
+                "name": "0883 BIKETOWN",
+                "inside_area": true,
+                "address": "434 Northwest Hoyt Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68528333333333, 45.56229]
+            },
+            "properties": {
+                "name": "0520 BIKETOWN ",
+                "inside_area": true,
+                "address": "1715 North Willamette Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68564666666667, 45.528595]
+            },
+            "properties": {
+                "name": "0210 BIKETOWN",
+                "inside_area": true,
+                "address": "1405, Northwest Johnson Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67486666666667, 45.52173333333333]
+            },
+            "properties": {
+                "name": "0646 BIKETOWN",
+                "inside_area": true,
+                "address": "201-209 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.57629833333333, 45.49392666666667]
+            },
+            "properties": {
+                "name": "0333 BIKETOWN",
+                "inside_area": false,
+                "address": "3900 SE 82nd Ave., Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64801666666666, 45.498286666666665]
+            },
+            "properties": {
+                "name": "0098 BIKETOWN",
+                "inside_area": true,
+                "address": "3390 Southeast 17th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.62678333333334, 45.512915]
+            },
+            "properties": {
+                "name": "0453 BIKETOWN",
+                "inside_area": true,
+                "address": "3609 Southeast Madison Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68491, 45.52719166666667]
+            },
+            "properties": {
+                "name": "0256 BIKETOWN",
+                "inside_area": true,
+                "address": "1335-1399 Northwest Hoyt Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.70137666666666, 45.52937333333333]
+            },
+            "properties": {
+                "name": "0626 BIKETOWN",
+                "inside_area": true,
+                "address": "2424 Northwest Lovejoy Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.675745, 45.50579666666667]
+            },
+            "properties": {
+                "name": "0309 XM BIKETOWN",
+                "inside_area": true,
+                "address": "2301-2399 Southwest Water Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67673166666667, 45.524723333333334]
+            },
+            "properties": {
+                "name": "0162 BIKETOWN",
+                "inside_area": true,
+                "address": "201-299 Northwest 6th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66367666666666, 45.520536666666665]
+            },
+            "properties": {
+                "name": "0537 BIKETOWN",
+                "inside_area": true,
+                "address": "312-318 Southeast 2nd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66274, 45.51719833333333]
+            },
+            "properties": {
+                "name": "0694 BIKETOWN",
+                "inside_area": true,
+                "address": "322 Southeast Morrison Bridge, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67542666666667, 45.55112833333333]
+            },
+            "properties": {
+                "name": "0810 BIKETOWN",
+                "inside_area": true,
+                "address": "3912 North Mississippi Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64902166666667, 45.522775]
+            },
+            "properties": {
+                "name": "0629  BIKETOWN",
+                "inside_area": true,
+                "address": "1636 East Burnside Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66552333333334, 45.530186666666665]
+            },
+            "properties": {
+                "name": "1009  DESIGN BIKE, NE CYCLING LIFE",
+                "inside_area": true,
+                "address": "Interstate 5, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63818, 45.517091666666666]
+            },
+            "properties": {
+                "name": "0966 XC WOMEN’S HISTORY MONTH",
+                "inside_area": true,
+                "address": "2600-2698 Southeast Morrison Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.6918, 45.51654166666667]
+            },
+            "properties": {
+                "name": "0754 BIKETOWN",
+                "inside_area": true,
+                "address": "1630 Southwest Clay Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67516, 45.52987666666667]
+            },
+            "properties": {
+                "name": "0492 BIKETOWN",
+                "inside_area": true,
+                "address": "961-1005 Northwest Naito Parkway, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65968666666667, 45.508035]
+            },
+            "properties": {
+                "name": "0935 DESIGN BIKE, WATERFRONT WANDERER SW",
+                "inside_area": true,
+                "address": "2034, Southeast 6th Avenue, Ladd's Addition, Central East Side, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65762, 45.518723333333334]
+            },
+            "properties": {
+                "name": "0414 BIKETOWN",
+                "inside_area": true,
+                "address": "801-815 Southeast Washington Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67596666666667, 45.519765]
+            },
+            "properties": {
+                "name": "0932 DESIGN BIKE, EXPLORIN' SE",
+                "inside_area": true,
+                "address": "404 Southwest Washington Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68409333333334, 45.534485]
+            },
+            "properties": {
+                "name": "0057 BIKETOWN",
+                "inside_area": true,
+                "address": "Northwest 13th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.688495, 45.533076666666666]
+            },
+            "properties": {
+                "name": "0730 BIKETOWN",
+                "inside_area": true,
+                "address": "1400-1420 Northwest 17th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68945333333333, 45.526313333333334]
+            },
+            "properties": {
+                "name": "0402 BIKETOWN",
+                "inside_area": true,
+                "address": "425, Northwest 18th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64298833333334, 45.53352833333334]
+            },
+            "properties": {
+                "name": "0984 WOMEN’S HISTORY MONTH",
+                "inside_area": true,
+                "address": "1430 Northeast 22nd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.632975, 45.51688]
+            },
+            "properties": {
+                "name": " 0063 BIKETOWN",
+                "inside_area": true,
+                "address": "3128 Southeast Morrison Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.658805, 45.52283333333333]
+            },
+            "properties": {
+                "name": "0628 BIKETOWN",
+                "inside_area": true,
+                "address": "632 East Burnside Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68743666666667, 45.56229]
+            },
+            "properties": {
+                "name": "0196 BIKETOWN",
+                "inside_area": true,
+                "address": "5400-5476 North Denver Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64839833333333, 45.533656666666666]
+            },
+            "properties": {
+                "name": "0166 BIKETOWN",
+                "inside_area": true,
+                "address": "1504, Northeast 17th Avenue, Irvington, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.674825, 45.521591666666666]
+            },
+            "properties": {
+                "name": "0941  DESIGN BIKE, WATERFRONT WANDERER SW",
+                "inside_area": true,
+                "address": "216 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63979166666667, 45.504871666666666]
+            },
+            "properties": {
+                "name": "0535 BIKETOWN",
+                "inside_area": true,
+                "address": "2425 Southeast 26th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65592, 45.52124166666667]
+            },
+            "properties": {
+                "name": "0385 BIKETOWN",
+                "inside_area": true,
+                "address": "930 Southeast Sandy Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.6111, 45.53982333333333]
+            },
+            "properties": {
+                "name": "0374 BIKETOWN",
+                "inside_area": true,
+                "address": "5039 Northeast Sandy Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67398166666666, 45.518546666666666]
+            },
+            "properties": {
+                "name": "0437 BIKETOWN",
+                "inside_area": true,
+                "address": "121 Southwest Morrison Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67330666666666, 45.528171666666665]
+            },
+            "properties": {
+                "name": "0203 BIKETOWN",
+                "inside_area": true,
+                "address": "600 Block Northwest Naito Parkway, Northwest Naito Parkway, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65835333333334, 45.53440333333333]
+            },
+            "properties": {
+                "name": "0837 BIKETOWN",
+                "inside_area": true,
+                "address": "Muchas Gracias, 707, Northeast Weidler Street, Lloyd District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67005166666667, 45.545435]
+            },
+            "properties": {
+                "name": "0349 BIKETOWN",
+                "inside_area": true,
+                "address": "2801 North Gantenbein Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68975666666667, 45.53648]
+            },
+            "properties": {
+                "name": "0739 BIKETOWN",
+                "inside_area": true,
+                "address": "1801, Northwest Upshur Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69749666666667, 45.52706666666667]
+            },
+            "properties": {
+                "name": "0912 BIKETOWN",
+                "inside_area": true,
+                "address": "2247 Northwest Hoyt Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63724666666667, 45.52786]
+            },
+            "properties": {
+                "name": "0227 BIKETOWN",
+                "inside_area": true,
+                "address": "705 Northeast 28th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67375, 45.51155333333333]
+            },
+            "properties": {
+                "name": "0762 BIKETOWN",
+                "inside_area": true,
+                "address": "1510 Southwest Harbor Way, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.676435, 45.50302833333333]
+            },
+            "properties": {
+                "name": "0757 BIKETOWN",
+                "inside_area": true,
+                "address": "2862-2898 U.S. Highway 26, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67471, 45.52182166666667]
+            },
+            "properties": {
+                "name": "1030 AIR SAFARI ",
+                "inside_area": true,
+                "address": "The Natural Nails, 337, Southwest Pine Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.61866333333333, 45.52032666666667]
+            },
+            "properties": {
+                "name": "0742 BIKETOWN",
+                "inside_area": true,
+                "address": "4225 Southeast Oak Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66302, 45.51517666666667]
+            },
+            "properties": {
+                "name": "0428 BIKETOWN",
+                "inside_area": true,
+                "address": "1035 Southeast 3rd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.681235, 45.55909666666667]
+            },
+            "properties": {
+                "name": "0042 BIKETOWN",
+                "inside_area": true,
+                "address": "5001-5025 North Maryland Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65973166666667, 45.523723333333336]
+            },
+            "properties": {
+                "name": "0384 BIKETOWN",
+                "inside_area": true,
+                "address": "111 Northeast 6th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.64802, 45.49827833333333]
+            },
+            "properties": {
+                "name": "0132 BIKETOWN",
+                "inside_area": true,
+                "address": "3390 Southeast 17th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.675995, 45.519083333333334]
+            },
+            "properties": {
+                "name": "0968 BETRUE TRAINER",
+                "inside_area": true,
+                "address": "340-398 Southwest Alder Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66885666666667, 45.53024166666667]
+            },
+            "properties": {
+                "name": "0084 BIKETOWN",
+                "inside_area": true,
+                "address": "901-1049 North Thunderbird Way, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68448666666667, 45.534395]
+            },
+            "properties": {
+                "name": "0595 BIKETOWN",
+                "inside_area": true,
+                "address": "1301 Northwest Raleigh Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65880666666666, 45.522845]
+            },
+            "properties": {
+                "name": "0608 BIKETOWN",
+                "inside_area": true,
+                "address": "632 East Burnside Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66355666666666, 45.520091666666666]
+            },
+            "properties": {
+                "name": "0673 BIKETOWN",
+                "inside_area": true,
+                "address": "201 Southeast Oak Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67633166666667, 45.51900666666667]
+            },
+            "properties": {
+                "name": "0658 BIKETOWN",
+                "inside_area": true,
+                "address": "600 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66163833333333, 45.561143333333334]
+            },
+            "properties": {
+                "name": "0466 BIKETOWN",
+                "inside_area": true,
+                "address": "5225 Oregon 99E, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65594666666667, 45.521251666666664]
+            },
+            "properties": {
+                "name": "0680 BIKETOWN",
+                "inside_area": true,
+                "address": "930 Southeast Sandy Boulevard, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66780166666666, 45.53014666666667]
+            },
+            "properties": {
+                "name": "0596 BIKETOWN",
+                "inside_area": true,
+                "address": "951-979 North Interstate Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68422, 45.52423833333334]
+            },
+            "properties": {
+                "name": "0018 BIKETOWN",
+                "inside_area": true,
+                "address": "131-199 Northwest 13th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67586666666666, 45.51857833333333]
+            },
+            "properties": {
+                "name": "0439 BIKETOWN",
+                "inside_area": true,
+                "address": "Smart Park, 620, Southwest 4th Avenue, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67383, 45.523133333333334]
+            },
+            "properties": {
+                "name": "0971 WOMEN’S HISTORY MONTH ",
+                "inside_area": true,
+                "address": "Limbo Lounge, 350, West Burnside Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.63908166666667, 45.516371666666664]
+            },
+            "properties": {
+                "name": "0936 DESIGN BIKE, COLORFUL PORTLAND NW",
+                "inside_area": true,
+                "address": "900-908 Southeast 26th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65562666666666, 45.515715]
+            },
+            "properties": {
+                "name": "0911 BIKETOWN",
+                "inside_area": true,
+                "address": "1000-1098 Southeast 10th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67646333333333, 45.50304666666667]
+            },
+            "properties": {
+                "name": "0769 BIKETOWN",
+                "inside_area": true,
+                "address": "0103, Southwest Meade Street, University District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66833666666666, 45.496543333333335]
+            },
+            "properties": {
+                "name": "0563 BIKETOWN",
+                "inside_area": true,
+                "address": "0841 Southwest Gaines Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.62051833333334, 45.53228166666667]
+            },
+            "properties": {
+                "name": "0319 BIKETOWN",
+                "inside_area": true,
+                "address": "3901-4199 Northeast Senate Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.61810166666666, 45.50345166666666]
+            },
+            "properties": {
+                "name": "0485 BIKETOWN",
+                "inside_area": true,
+                "address": "2631 Southeast 43rd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66370333333333, 45.54089333333334]
+            },
+            "properties": {
+                "name": "0273 BIKETOWN",
+                "inside_area": true,
+                "address": "116 Northeast Russell Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67390166666667, 45.51139666666667]
+            },
+            "properties": {
+                "name": "1028 AIR SAFARI",
+                "inside_area": true,
+                "address": "1510 Southwest Harbor Way, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67649666666667, 45.518613333333334]
+            },
+            "properties": {
+                "name": "0712  BIKETOWN",
+                "inside_area": true,
+                "address": "600-698 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65501333333333, 45.50729333333334]
+            },
+            "properties": {
+                "name": "0890 BIKETOWN",
+                "inside_area": true,
+                "address": "Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67650166666667, 45.52319833333333]
+            },
+            "properties": {
+                "name": "0079 BIKETOWN",
+                "inside_area": true,
+                "address": "Saint André Bessette, 601, West Burnside Street, Pearl District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.69178, 45.52708833333333]
+            },
+            "properties": {
+                "name": "0924 BIKETOWN",
+                "inside_area": true,
+                "address": "1955 Northwest Hoyt Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67336, 45.55985166666667]
+            },
+            "properties": {
+                "name": "0141 BIKETOWN ",
+                "inside_area": true,
+                "address": "615 North Webster Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65976, 45.522815]
+            },
+            "properties": {
+                "name": "0617 BIKETOWN",
+                "inside_area": true,
+                "address": "Machus, East Burnside Street, Ladd's Addition, Lloyd District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67752, 45.51684]
+            },
+            "properties": {
+                "name": "0541 BIKETOWN",
+                "inside_area": true,
+                "address": "901-999 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66178666666667, 45.531005]
+            },
+            "properties": {
+                "name": "0969 DESIGN BIKE, N PAUL BUNYAN",
+                "inside_area": true,
+                "address": "1135, Northeast Martin Luther King, Junior Boulevard, Lloyd District, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67632666666667, 45.51949333333334]
+            },
+            "properties": {
+                "name": "0958 DESIGN BIKE, WATERFRONT WANDERER SW",
+                "inside_area": true,
+                "address": "529 Southwest 4th Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.673885, 45.51138]
+            },
+            "properties": {
+                "name": "0662 BIKETOWN  ",
+                "inside_area": true,
+                "address": "1510 Southwest Harbor Way, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67721666666667, 45.519965]
+            },
+            "properties": {
+                "name": "0352 BIKETOWN",
+                "inside_area": true,
+                "address": "500 Southwest Washington Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67812166666667, 45.51732]
+            },
+            "properties": {
+                "name": "0482 BIKETOWN",
+                "inside_area": true,
+                "address": "460-496 Southwest Taylor Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67726, 45.51716166666667]
+            },
+            "properties": {
+                "name": "0978 DESIGN BIKE, N PAUL BUNYAN",
+                "inside_area": true,
+                "address": "400-458 Southwest Taylor Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.60930166666667, 45.55854]
+            },
+            "properties": {
+                "name": "0038 BIKETOWN",
+                "inside_area": true,
+                "address": "4830, Northeast 52nd Avenue, Alameda, Portland, Oregon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.67632, 45.51703]
+            },
+            "properties": {
+                "name": "1017 DESIGN BIKE, NE CYCLING LIFE",
+                "inside_area": true,
+                "address": "815-899 Southwest 3rd Avenue, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.68135, 45.517421666666664]
+            },
+            "properties": {
+                "name": "0335 BIKETOWN",
+                "inside_area": true,
+                "address": "1111 Southwest Broadway, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.66564333333334, 45.51589166666667]
+            },
+            "properties": {
+                "name": "0523 BIKETOWN",
+                "inside_area": true,
+                "address": "61 Southeast Yamhill Street, Portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.65593666666666, 45.52121666666667]
+            },
+            "properties": {
+                "name": "0738 BIKETOWN",
+                "inside_area": true,
+                "address": "930 Southeast Sandy Boulevard, Portland"
+            }
+        }
+    ]
+}

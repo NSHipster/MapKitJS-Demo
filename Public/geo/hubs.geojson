@@ -1,0 +1,4649 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68109008669852, 45.52179369733484],
+                [-122.6811745762825, 45.521663088799],
+                [-122.6812134683132, 45.52158603901696],
+                [-122.68111824989317, 45.52156724637119],
+                [-122.68107533454894, 45.52164617544124],
+                [-122.68105924129486, 45.521674364368],
+                [-122.68102705478667, 45.521746715882045],
+                [-122.68101230263709, 45.52177208587142],
+                [-122.68109008669852, 45.52179369733484]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68107935786247, 45.52175423291714]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 10th at Harvey Milk ",
+        "racks_amount": 17,
+        "has_kiosk": true,
+        "address": "404 Southwest 10th Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65329837799072, 45.50262858686735],
+                [-122.653352022171, 45.50262858686735],
+                [-122.65380263328551, 45.50288425233022],
+                [-122.6536738872528, 45.50296696737845],
+                [-122.65321254730225, 45.50269626313227],
+                [-122.65325009822845, 45.502684983760446],
+                [-122.6532232761383, 45.502684983760446],
+                [-122.65325009822845, 45.50266994459447],
+                [-122.65325546264648, 45.50266994459447],
+                [-122.65327155590056, 45.50265866521738],
+                [-122.65329837799072, 45.50262858686735]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65353977680206, 45.50280905672637]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Gideon at 12th Ave MAX station",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1201-1241 Southeast Gideon Street, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63963520526886, 45.50358732636649],
+                [-122.63963252305984, 45.5035910860971],
+                [-122.63921141624449, 45.503564767977615],
+                [-122.6392248272896, 45.50351777130508],
+                [-122.63934016227721, 45.50352717064271],
+                [-122.63962179422377, 45.50353656997879],
+                [-122.63963520526886, 45.50358732636649]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63952791690826, 45.5035666478437]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Clinton at 26th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2615 Southeast Clinton Street, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65353709459305, 45.5050249350478],
+                [-122.65343651175499, 45.5049755898205],
+                [-122.6531320810318, 45.50522278547717],
+                [-122.65319645404814, 45.505282939389105],
+                [-122.65353709459305, 45.5050249350478]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65336811542511, 45.50512503523317]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Elliott at Division",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2454-2498 Southeast Elliott Avenue, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6665525138378, 45.511449314208086],
+                [-122.6662454009056, 45.51143991619318],
+                [-122.66625612974168, 45.511522618670355],
+                [-122.66652971506117, 45.51152167887016],
+                [-122.6667469739914, 45.511560210665266],
+                [-122.66679391264914, 45.511484086849535],
+                [-122.6665525138378, 45.511449314208086]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66628563404082, 45.5114765684424]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Clay at Water",
+        "racks_amount": 16,
+        "has_kiosk": false,
+        "address": "1601-1799 Southeast Water Avenue, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6360222697258, 45.51634264741318],
+                [-122.63611882925032, 45.516346406291866],
+                [-122.63610810041426, 45.51611711423378],
+                [-122.63601690530777, 45.51612463202101],
+                [-122.6360222697258, 45.51634264741318]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63606786727905, 45.516231760262826]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 29th at Belmont",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "901-915 Southeast 29th Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6657250523567, 45.515331499934064],
+                [-122.66581892967224, 45.515331499934064],
+                [-122.66582429409027, 45.515124757506015],
+                [-122.66574919223785, 45.515119119065496],
+                [-122.66574114561081, 45.51519993665864],
+                [-122.6657250523567, 45.515331499934064]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66577601432802, 45.515152949700024]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Water at Taylor",
+        "racks_amount": 16,
+        "has_kiosk": true,
+        "address": "1028 Southeast Water Avenue, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65172392129898, 45.51860380250462],
+                [-122.65164345502853, 45.51860568186846],
+                [-122.65165150165558, 45.51828806848805],
+                [-122.651726603508, 45.51828806848805],
+                [-122.65172392129898, 45.51860380250462]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65168502926826, 45.518446875178256]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 14th at Stark",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "531-699 Southeast 14th Avenue, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68213212490083, 45.555335014013565],
+                [-122.68213212490083, 45.55517725031322],
+                [-122.68159031867981, 45.55517725031322],
+                [-122.68159031867981, 45.55533877028674],
+                [-122.68213212490083, 45.555335014013565]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68186122179031, 45.55522232556467]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Prescott at Interstate",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "4350 North Interstate Avenue, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64143496751784, 45.52647285348568],
+                [-122.64143228530882, 45.52651748211734],
+                [-122.64183327555656, 45.526517012342474],
+                [-122.64182925224303, 45.52647379303616],
+                [-122.64143496751784, 45.52647285348568]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6416327804327, 45.526494932914076]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Glisan at 24th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2329-2399 Northeast Glisan Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66628563404082, 45.53085004901257],
+                [-122.6660978794098, 45.5309101755341],
+                [-122.66582429409027, 45.5309101755341],
+                [-122.66583502292633, 45.53082750155043],
+                [-122.66589671373369, 45.5308331384168],
+                [-122.66595035791397, 45.5308312594614],
+                [-122.6660120487213, 45.53082374363917],
+                [-122.66606569290161, 45.53082374363917],
+                [-122.66622126102448, 45.53077113285552],
+                [-122.66628563404082, 45.53085004901257]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66588866710661, 45.53086695960325]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Wheeler at Multnomah",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1051-1099 Northeast Wheeler Avenue, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6755640655756, 45.55461943939277],
+                [-122.67556741833687, 45.55448796799917],
+                [-122.67550639808178, 45.554487498457924],
+                [-122.67550639808178, 45.55461943939277],
+                [-122.6755640655756, 45.55461943939277]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67554126679897, 45.55458563249236]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Mississippi at N Skidmore",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "4220 North Mississippi Avenue, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62262195348738, 45.51501386807255],
+                [-122.62262195348738, 45.51502890394074],
+                [-122.62227863073349, 45.51503078342396],
+                [-122.62227594852448, 45.515015747556276],
+                [-122.62262195348738, 45.51501386807255]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6224422454834, 45.51502138600713]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Taylor at Chavez Community Corral",
+        "racks_amount": 8,
+        "has_kiosk": false,
+        "address": "3926, Southeast Taylor Street, Hawthorne, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68435567617416, 45.53102948890992],
+                [-122.68450856208803, 45.53102854943551],
+                [-122.68449783325194, 45.53084817005773],
+                [-122.68449515104292, 45.530808711991725],
+                [-122.68449246883391, 45.53078240659901],
+                [-122.68433958292006, 45.53078428555607],
+                [-122.68435567617416, 45.53102948890992]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68442273139952, 45.53080401460108]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 13th at Marshall",
+        "racks_amount": 17,
+        "has_kiosk": true,
+        "address": "1100-1124 Northwest 13th Avenue, Portland",
+        "current_bikes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68950954079627, 45.531390245923966],
+                [-122.68959134817123, 45.531390245923966],
+                [-122.68959805369376, 45.53168711714784],
+                [-122.68955647945404, 45.53168899607464],
+                [-122.68953636288643, 45.53169087500139],
+                [-122.68950954079627, 45.531390245923966]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68956586718559, 45.53142500624323]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 18th at Northrup",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1801 Northwest Northrup Street, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68317282199858, 45.51621108650172],
+                [-122.68307358026505, 45.51618477428252],
+                [-122.68330425024033, 45.5157900895181],
+                [-122.6833900809288, 45.51581076355066],
+                [-122.68317282199858, 45.51621108650172]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68331229686736, 45.515923530681164]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Park at Portland Art Museum",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1315 Southwest Park Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67889603972435, 45.515120058805614],
+                [-122.67896309494971, 45.51502608471575],
+                [-122.67903953790665, 45.514891701494584],
+                [-122.67892286181448, 45.51486068993643],
+                [-122.67886787652971, 45.514957483531056],
+                [-122.67876863479614, 45.51509562555736],
+                [-122.67889603972435, 45.515120058805614]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67889469861983, 45.51505333721798]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 4th at Jefferson (City Hall)",
+        "racks_amount": 15,
+        "has_kiosk": false,
+        "address": "1221 Southwest 4th Avenue, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68379777669907, 45.511673926297],
+                [-122.68380582332611, 45.51166264872395],
+                [-122.68391847610474, 45.5117133977849],
+                [-122.68377631902693, 45.51196432302471],
+                [-122.68366366624832, 45.51193706902661],
+                [-122.68366098403932, 45.51194082819955],
+                [-122.68366098403932, 45.511927671093176],
+                [-122.68379777669907, 45.511673926297]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68371999263763, 45.51184308962157]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Broadway at Smith Memorial Student Union",
+        "racks_amount": 23,
+        "has_kiosk": true,
+        "address": "1801-1825 Southwest Broadway, Portland",
+        "current_bikes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68229976296423, 45.511648551754455],
+                [-122.68197990953922, 45.5115592708657],
+                [-122.68202550709246, 45.511482207247845],
+                [-122.68235072493555, 45.511570548459474],
+                [-122.68229976296423, 45.511648551754455]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68228098750114, 45.51158276585015]
+          }
+        ]
+      },
+      "properties": {
+        "name": "Urban Center Plaza at SW 6th St",
+        "racks_amount": 16,
+        "has_kiosk": false,
+        "address": "1800 Southwest Montgomery Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68140256404875, 45.50947663647747],
+                [-122.68099486827849, 45.5093770139482],
+                [-122.68099486827849, 45.50937325460404],
+                [-122.68102705478667, 45.509298067667714],
+                [-122.68145084381104, 45.509388291979235],
+                [-122.68140256404875, 45.50947663647747]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68121212720871, 45.50936197656999]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 4th at College",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "TECOTOSH, Southwest 4th Avenue, University District, Portland, Oregon",
+        "current_bikes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6779827475548, 45.50987230534808],
+                [-122.6780417561531, 45.509780202153884],
+                [-122.67805114388466, 45.50975858607626],
+                [-122.67768636345863, 45.50966930218947],
+                [-122.67761528491972, 45.50979429959135],
+                [-122.6779827475548, 45.50987230534808]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67771586775778, 45.50971347423539]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Harrison at 1st",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "86-98 Southwest Harrison Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67167955636978, 45.499163829392984],
+                [-122.67167150974274, 45.499122469090324],
+                [-122.67148911952971, 45.499122469090324],
+                [-122.67130672931671, 45.499122469090324],
+                [-122.67131477594376, 45.49915818935348],
+                [-122.67167955636978, 45.499163829392984]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67164334654808, 45.499136569196914]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Moody at Aerial Tram Terminal",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68482506275176, 45.51541795563332],
+                [-122.68467485904694, 45.51538036621519],
+                [-122.68451526761054, 45.515656647852516],
+                [-122.68462255597115, 45.51567920139568],
+                [-122.68473789095879, 45.51547152051077],
+                [-122.68493101000787, 45.51551568800295],
+                [-122.68499940633774, 45.51545366555728],
+                [-122.68482506275176, 45.51541795563332]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68467485904694, 45.515444268211056]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 10th at Columbia",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1001-1023 Southwest Columbia Street, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68693327903748, 45.51515858813711],
+                [-122.68701910972595, 45.51518490083615],
+                [-122.68715322017668, 45.514944327129896],
+                [-122.68706738948822, 45.5149255322658],
+                [-122.68693327903748, 45.51515858813711]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.687029838562, 45.51507401152119]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 12th at Clay",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1520 Southwest 12th Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67901137471199, 45.51612839091422],
+                [-122.67913475632668, 45.51616034149654],
+                [-122.67918303608894, 45.5160875129369],
+                [-122.67905429005623, 45.51605885134887],
+                [-122.67901137471199, 45.51612839091422]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67907708883286, 45.5160969101757]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 5th at Main",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "512-586 Southwest Main Street, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68189877271652, 45.53084817005773],
+                [-122.68190413713455, 45.53080119616649],
+                [-122.68147230148314, 45.53080119616649],
+                [-122.68146425485611, 45.53084817005773],
+                [-122.68189877271652, 45.53084817005773]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68159568309783, 45.5308312594614]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Marshall at Tanner Springs Park",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1000 Northwest Marshall Street, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.70079493522644, 45.53553220947414],
+                [-122.70078957080841, 45.53547960309495],
+                [-122.70045697689055, 45.535488997094845],
+                [-122.70046167075633, 45.53553972466713],
+                [-122.70079493522644, 45.53553220947414]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.70066082477571, 45.53550402749139]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Thurman at 24th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2383-2389 Northwest Thurman Street, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69535005092621, 45.53412121419135],
+                [-122.69535273313522, 45.53405169686419],
+                [-122.69483774900436, 45.534057333407446],
+                [-122.69485116004942, 45.534138123798456],
+                [-122.69535005092621, 45.53412121419135]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69494235515596, 45.53409115265501]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Raleigh at 21st",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "2100-2112 Northwest Raleigh Street, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62966543436049, 45.50501976554983],
+                [-122.62960374355316, 45.50501412609696],
+                [-122.62959033250807, 45.50481298524156],
+                [-122.62966543436049, 45.50481298524156],
+                [-122.62966543436049, 45.50501976554983]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6296305656433, 45.504839302777505]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 34th at Division",
+        "racks_amount": 17,
+        "has_kiosk": false,
+        "address": "3377-3399 Southeast Division Street, Portland",
+        "current_bikes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63458997011183, 45.50478290804251],
+                [-122.6345846056938, 45.504525371368025],
+                [-122.63450413942336, 45.50452349153393],
+                [-122.63451218605043, 45.50477350891454],
+                [-122.63458997011183, 45.50478290804251]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63455510139465, 45.504688916692]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 30th at Division",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "2501-2523 Southeast 30th Avenue, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64508679509164, 45.50339322993306],
+                [-122.64508478343487, 45.50333871362318],
+                [-122.64462344348429, 45.50333730371789],
+                [-122.6446221023798, 45.503394169869004],
+                [-122.64508679509164, 45.50339322993306]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64473140239714, 45.50336550181654]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Clinton at 21st",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2039-2099 Southeast Clinton Street, Portland",
+        "current_bikes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6359310746193, 45.519618414928026],
+                [-122.63606250286102, 45.519619354593004],
+                [-122.63606786727904, 45.5193327560452],
+                [-122.63593643903732, 45.51933087670564],
+                [-122.6359310746193, 45.519618414928026]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63599276542662, 45.51936282546957]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 29th at Stark",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "415 Southeast 29th Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64635145664214, 45.51646293140592],
+                [-122.64636754989624, 45.5163088174939],
+                [-122.64560580253601, 45.51630505861272],
+                [-122.64561116695404, 45.51646669027656],
+                [-122.64635145664214, 45.51646293140592]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64604568481445, 45.516361441804015]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Belmont at 20th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1900-1998 Southeast Belmont Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62958765029906, 45.51205360327094],
+                [-122.62939989566803, 45.512061121601],
+                [-122.62939989566803, 45.51168896305756],
+                [-122.62958228588103, 45.51168144467778],
+                [-122.62958765029906, 45.51205360327094]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.62948036193848, 45.51190699563407]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 34th at Hawthorne",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1510 Southeast 34th Avenue, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65060812234879, 45.535396935828246],
+                [-122.6505021750927, 45.535396935828246],
+                [-122.65050083398818, 45.53506438673224],
+                [-122.65060544013977, 45.53506438673224],
+                [-122.65060812234879, 45.535396935828246]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65056386590003, 45.535082235462475]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 15th at Broadway",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "1711 Northeast 15th Avenue, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66144156455994, 45.541981754412696],
+                [-122.66154617071152, 45.54197799724681],
+                [-122.66153275966643, 45.541598522197816],
+                [-122.66142547130585, 45.5415966436021],
+                [-122.66144156455994, 45.541981754412696]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66148447990417, 45.5417995312248]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE MLK at Knott",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "2650 Oregon 99E, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69680380821228, 45.524899084361515],
+                [-122.69680917263031, 45.52485210550197],
+                [-122.69643366336824, 45.52485586381217],
+                [-122.69643366336824, 45.52490472182202],
+                [-122.69680380821228, 45.524899084361515]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69651412963869, 45.52487653451383]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Everett at 22nd",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2201-2209 Northwest Everett Street, Portland",
+        "current_bikes": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66834557056426, 45.559654562290255],
+                [-122.66872644424438, 45.559654562290255],
+                [-122.66873717308044, 45.55916628217507],
+                [-122.66830801963805, 45.55916628217507],
+                [-122.66834557056426, 45.559654562290255]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66852259635925, 45.55941042223266]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Vancouver at Alberta",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "241 North Alberta Street, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67487138509749, 45.56289776135685],
+                [-122.67486870288847, 45.562753164112],
+                [-122.6746219396591, 45.562753164112],
+                [-122.67463266849516, 45.56281137863197],
+                [-122.67487138509749, 45.56289776135685]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6747466623783, 45.56282546273442]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Killingsworth at Albina",
+        "racks_amount": 15,
+        "has_kiosk": false,
+        "address": "North Killingsworth Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68216967582704, 45.52865444747286],
+                [-122.68216967582704, 45.52861592738258],
+                [-122.68188938498497, 45.52861592738258],
+                [-122.68189609050751, 45.52865632650098],
+                [-122.68216967582704, 45.52865444747286]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68201947212219, 45.52863659670261]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Johnson at Jamison Square",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "718 Northwest 11th Avenue, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67701447010042, 45.52856519356494],
+                [-122.67690718173981, 45.52862156447063],
+                [-122.67653703689575, 45.52833595129976],
+                [-122.67646998167038, 45.52825515257376],
+                [-122.67658531665802, 45.52820066034419],
+                [-122.6766175031662, 45.52821945077414],
+                [-122.67701447010042, 45.52856519356494]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67662823200226, 45.5282777010671]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Station at Irving",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "700-746 Northwest 6th Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69869476556778, 45.53224609510425],
+                [-122.69869208335876, 45.532161544173356],
+                [-122.69867867231368, 45.53195110574899],
+                [-122.69856065511702, 45.5319548635849],
+                [-122.69856601953508, 45.53224797401238],
+                [-122.69869476556778, 45.53224609510425]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69863039255142, 45.53211645029155]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 23rd at Overton",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "1310 Northwest 23rd Avenue, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69320964813234, 45.52365882931544],
+                [-122.69328743219374, 45.52365882931544],
+                [-122.69333034753801, 45.52366258770536],
+                [-122.69333302974701, 45.52364191655766],
+                [-122.6933169364929, 45.523262317767475],
+                [-122.69319891929625, 45.523260438559184],
+                [-122.69320964813234, 45.52365882931544]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69326329231262, 45.52331305636792]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 20th at Burnside",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2-90 Northwest 20th Place, Portland",
+        "current_bikes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6942878961563, 45.52636480507283],
+                [-122.69406259059906, 45.52636856328199],
+                [-122.69407331943512, 45.526327222967566],
+                [-122.69423961639404, 45.526321585649605],
+                [-122.69430130720139, 45.526325343861636],
+                [-122.6942878961563, 45.52636480507283]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69414842128754, 45.52634601402334]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Glisan at 21st",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2066 Northwest Glisan Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69451320171356, 45.52840735472844],
+                [-122.69464731216429, 45.52840735472844],
+                [-122.69461512565611, 45.52810670810028],
+                [-122.69451320171356, 45.52811798237782],
+                [-122.69451320171356, 45.52840735472844]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69456148147583, 45.52826830586263]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 21st at Johnson",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "721 Northwest 21st Avenue, Portland",
+        "current_bikes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68103510141371, 45.525098274290244],
+                [-122.68118262290955, 45.5251039117308],
+                [-122.68116116523741, 45.52485022634676],
+                [-122.68101096153259, 45.52485210550197],
+                [-122.68103510141371, 45.525098274290244]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68110483884811, 45.52500055856427]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 10th at Everett",
+        "racks_amount": 16,
+        "has_kiosk": false,
+        "address": "230 Northwest 10th Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67403453588487, 45.515634094300324],
+                [-122.67405062913895, 45.515585228239544],
+                [-122.67336130142212, 45.51542359404387],
+                [-122.67335057258606, 45.51547809865009],
+                [-122.67403453588487, 45.515634094300324]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67389237880707, 45.51556831305477]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Salmon at Waterfront Park",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "25 Southwest Salmon Street, Portland",
+        "current_bikes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67365097999573, 45.50923415869288],
+                [-122.67366170883177, 45.50930182701691],
+                [-122.67346858978273, 45.50930558636588],
+                [-122.67338812351228, 45.509012356393775],
+                [-122.6735919713974, 45.50893340960183],
+                [-122.67365097999573, 45.50923415869288]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67351686954498, 45.50910258116327]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW River at Montgomery",
+        "racks_amount": 27,
+        "has_kiosk": true,
+        "address": "Portland Sports Bar and Grill, 1800, Southwest River Drive, University District, Portland, Oregon",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68407940864563, 45.52286768264635],
+                [-122.6840740442276, 45.522773721495234],
+                [-122.68407940864563, 45.52271734472922],
+                [-122.68394529819489, 45.52275868769649],
+                [-122.68407940864563, 45.52286768264635]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68401235342026, 45.52279251368779]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Harvey Milk at Burnside",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "1250-1298 Southwest Stark Street, Portland",
+        "current_bikes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69170224666595, 45.517891284164826],
+                [-122.69171833992006, 45.51779731470279],
+                [-122.69234597682953, 45.51789880171501],
+                [-122.69233524799347, 45.51800028854422],
+                [-122.69170224666595, 45.517891284164826]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69204020500185, 45.51788376661364]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 18th at Jefferson",
+        "racks_amount": 16,
+        "has_kiosk": false,
+        "address": "1234, Southwest 18th Avenue, University District, Portland, Oregon",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67260357737543, 45.5215977844174],
+                [-122.67247818410397, 45.521584629568736],
+                [-122.67261229455471, 45.521288644661304],
+                [-122.67274975776672, 45.521324820677954],
+                [-122.67260357737543, 45.5215977844174]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67262905836105, 45.521420663518754]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 2nd at Pine",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "128-198 Southwest 2nd Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67324596643448, 45.52251626713707],
+                [-122.67327815294266, 45.52252754253509],
+                [-122.67332643270493, 45.52252942176788],
+                [-122.67333447933196, 45.52241478845319],
+                [-122.67335325479507, 45.52229639642402],
+                [-122.67328351736069, 45.52228136249772],
+                [-122.67324596643448, 45.52251626713707]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67329692840575, 45.52247868246067]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 3rd at Ankeny",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "40 Southwest 3rd Avenue, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67556339502336, 45.51817882974388],
+                [-122.67546951770781, 45.518158156581364],
+                [-122.6756089925766, 45.51789880171501],
+                [-122.67569482326508, 45.51792699251927],
+                [-122.67556339502336, 45.51817882974388]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67558217048645, 45.51803881572945]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 3rd at Morrison",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "718-732 Southwest 3rd Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67735242843628, 45.51911663158461],
+                [-122.67728134989738, 45.5190931397454],
+                [-122.67740875482558, 45.51886197952445],
+                [-122.677481174469, 45.51888735081459],
+                [-122.67735242843628, 45.51911663158461]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67740607261656, 45.518894868231705]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 5th at Morrison",
+        "racks_amount": 20,
+        "has_kiosk": false,
+        "address": "620 Southwest 5th Avenue, Portland",
+        "current_bikes": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67611861228941, 45.52135676830969],
+                [-122.67631709575652, 45.52140187081771],
+                [-122.67645925283432, 45.52116884080368],
+                [-122.67624735832216, 45.521119979549304],
+                [-122.67611861228941, 45.52135676830969]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67636537551878, 45.52117259935996]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW 5th at Oak",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "315 Southwest 5th Avenue, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67884910106659, 45.512339299107076],
+                [-122.67887324094772, 45.5122960689092],
+                [-122.6791575551033, 45.51237877012832],
+                [-122.67912805080414, 45.51242575940322],
+                [-122.67884910106659, 45.512339299107076]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67891079187393, 45.51232050337293]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Market at Keller Fountain Park",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "300-398 Southwest Market Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69007682800293, 45.5220939078919],
+                [-122.69010365009306, 45.52202249644919],
+                [-122.68930971622467, 45.5218270541425],
+                [-122.68925070762633, 45.52188343180066],
+                [-122.69007682800293, 45.5220939078919]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6896771788597, 45.5219604810172]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Morrison at 18th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "Southwest Morrison & 17th, Southwest Morrison Street, Pearl District, Portland, Oregon",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67951965332031, 45.51960901827732],
+                [-122.67965376377106, 45.51964660487073],
+                [-122.67971813678741, 45.51945867165255],
+                [-122.67946064472197, 45.51936470480806],
+                [-122.67937481403351, 45.519567672995564],
+                [-122.67951965332031, 45.51960901827732]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67951428890228, 45.519462430323074]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Morrison at Pioneer Courthouse Sq.",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "640-698 Southwest Broadway, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6813918352127, 45.51902830221828],
+                [-122.68142402172089, 45.51898507715868],
+                [-122.68117994070053, 45.5189211791837],
+                [-122.68115580081938, 45.51896440429236],
+                [-122.6813918352127, 45.51902830221828]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68126845359802, 45.51898131845628]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Yamhill at Director Park",
+        "racks_amount": 20,
+        "has_kiosk": false,
+        "address": "800-898 Southwest Yamhill Street, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68239229917526, 45.53252605172381],
+                [-122.68246740102768, 45.53253356731855],
+                [-122.68246740102768, 45.532237640016895],
+                [-122.6823829114437, 45.5322385794711],
+                [-122.68239229917526, 45.53252605172381]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68242985010147, 45.53232500919175]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 11th at The Fields",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1315 Northwest 11th Avenue, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68919169902802, 45.52565261990741],
+                [-122.68930971622467, 45.525667652932825],
+                [-122.68927752971649, 45.52537450821281],
+                [-122.68916487693785, 45.525378266488104],
+                [-122.68919169902802, 45.52565261990741]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68925607204436, 45.525562421670635]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 18th at Flanders",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "300-398 Northwest 18th Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69659459590913, 45.52981285639853],
+                [-122.69673138856888, 45.5298072194299],
+                [-122.6967179775238, 45.52950282228456],
+                [-122.69658923149107, 45.529506580284036],
+                [-122.69659459590913, 45.52981285639853]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69664287567139, 45.52976024466929]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 22nd at Lovejoy",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "945-993 Northwest 22nd Avenue, Portland",
+        "current_bikes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67250701785086, 45.52550416856584],
+                [-122.67259150743484, 45.525506047699196],
+                [-122.67259418964386, 45.52532940888953],
+                [-122.67249763011931, 45.52532565061094],
+                [-122.67250701785086, 45.52550416856584]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67254590988159, 45.52536699166144]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 2nd at Everett",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "301-399 Northwest 2nd Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68209993839264, 45.523750909796384],
+                [-122.68209993839264, 45.523688896427835],
+                [-122.68153935670853, 45.52370017159082],
+                [-122.68154472112656, 45.52376594333],
+                [-122.68209993839264, 45.523750909796384]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68181294202805, 45.523741513819246]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Couch at 11th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1037 Northwest Couch Street, Portland",
+        "current_bikes": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68537759780884, 45.525752213625864],
+                [-122.68536418676376, 45.525697718971585],
+                [-122.68579065799712, 45.52568644420892],
+                [-122.6857879757881, 45.52574281799956],
+                [-122.68537759780884, 45.525752213625864]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68557608127594, 45.52570899373196]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Flanders at 14th",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "1400-1498 Northwest Flanders Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67132282257079, 45.502903051215505],
+                [-122.67177343368529, 45.502790257809714],
+                [-122.6716285943985, 45.502579709514336],
+                [-122.67196118831635, 45.502470675266174],
+                [-122.67191022634506, 45.50239923892013],
+                [-122.67186999320984, 45.502337202019774],
+                [-122.67125576734543, 45.50252331251578],
+                [-122.67126381397247, 45.50258158941329],
+                [-122.6712879538536, 45.50259850850129],
+                [-122.67131745815277, 45.50262858686735],
+                [-122.67141133546828, 45.50274514038412],
+                [-122.67125308513643, 45.50280529694355],
+                [-122.67132282257079, 45.502903051215505]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67144083976744, 45.50276769910143]
+          }
+        ]
+      },
+      "properties": {
+        "name": "Tilikum West at SW Moody",
+        "racks_amount": 19,
+        "has_kiosk": false,
+        "address": "Tilikum Crossing, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69865989685059, 45.52916835932417],
+                [-122.69865453243256, 45.529110109953564],
+                [-122.69912660121916, 45.52910259390134],
+                [-122.69912660121916, 45.52916272229093],
+                [-122.69865989685059, 45.52916835932417]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69870281219482, 45.52914205316425]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Kearney at 23rd",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "2301-2305 Northwest Kearney Street, Portland",
+        "current_bikes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67450660467146, 45.529160843279726],
+                [-122.6746541261673, 45.52910259390134],
+                [-122.6740425825119, 45.52856895162705],
+                [-122.67389774322508, 45.528689209482884],
+                [-122.67450660467146, 45.529160843279726]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67416596412659, 45.52871175780225]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Naito at Ironside",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "Northwest Naito Parkway, Pearl District, Portland, Oregon",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66672417521477, 45.550783165499254],
+                [-122.66672417521477, 45.55074184313097],
+                [-122.66700714826582, 45.550739964840794],
+                [-122.66700848937035, 45.55078692207666],
+                [-122.66672417521477, 45.550783165499254]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66686633229256, 45.55076344345873]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Failing at Williams",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1-99 North Failing Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67561435699463, 45.550196197191724],
+                [-122.6758074760437, 45.550196197191724],
+                [-122.6758074760437, 45.54983556082349],
+                [-122.67557144165039, 45.54984307410474],
+                [-122.67561435699463, 45.550196197191724]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67565727233887, 45.549985826258116]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Mississippi at Beech",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "3731-3741 North Mississippi Avenue, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66672551631926, 45.54475259588738],
+                [-122.66672551631926, 45.544688727180905],
+                [-122.66715466976166, 45.544688727180905],
+                [-122.66714930534363, 45.5447601098481],
+                [-122.66672551631926, 45.54475259588738]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6667845249176, 45.54471502606885]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Morris at Williams",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "15 North Morris Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67707347869873, 45.541153293256095],
+                [-122.67707884311675, 45.54104809096586],
+                [-122.67641097307207, 45.54104809096586],
+                [-122.67641633749008, 45.54115517186662],
+                [-122.67707347869873, 45.541153293256095]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67697155475615, 45.54107814878315]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Russell at Interstate Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "955 North Russell Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66670942306519, 45.5478332355658],
+                [-122.66682207584383, 45.547831357178396],
+                [-122.66681939363478, 45.54751766560406],
+                [-122.66670405864716, 45.54751578720612],
+                [-122.66670942306519, 45.5478332355658]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66676038503647, 45.54759280146992]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Williams at Fremont",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "North Williams at Fremont, North Williams Avenue, Albina, Portland, Oregon",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65460729598998, 45.53049304646715],
+                [-122.6547521352768, 45.53049304646715],
+                [-122.65474677085876, 45.53006839838346],
+                [-122.65459924936293, 45.53006464042149],
+                [-122.65460729598998, 45.53049304646715]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65466898679733, 45.53027884344432]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 11th at Holladay Park",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1015-1199 Northeast 11th Avenue, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67033576965332, 45.522836675483845],
+                [-122.67038270831107, 45.52283479626131],
+                [-122.6703867316246, 45.52253318023324],
+                [-122.6703330874443, 45.5225313010006],
+                [-122.67033576965332, 45.522836675483845]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6703491806984, 45.52269573362062]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Naito at Ankeny Plaza",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "43 Southwest Naito Parkway, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64333665370941, 45.5231251353964],
+                [-122.64347076416016, 45.52312889382199],
+                [-122.64346271753311, 45.5228845956369],
+                [-122.64335006475449, 45.5228845956369],
+                [-122.64333665370941, 45.5231251353964]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64341175556181, 45.522972918949336]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 22nd at Burnside",
+        "racks_amount": 16,
+        "has_kiosk": false,
+        "address": "14 Northeast 22nd Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6540118455887, 45.53502868925475],
+                [-122.65400916337968, 45.53495165777881],
+                [-122.65356391668318, 45.534953536596554],
+                [-122.65356391668318, 45.53502493162425],
+                [-122.6540118455887, 45.53502868925475]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65363097190857, 45.534968567136225]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Broadway at 12th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1100-1198 Northeast Broadway Street, Portland",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66197264194487, 45.52985043617502],
+                [-122.66189754009245, 45.52981097740906],
+                [-122.66189485788344, 45.52965877905248],
+                [-122.66189485788344, 45.529523491278646],
+                [-122.66190290451048, 45.52927170483322],
+                [-122.66191363334656, 45.52788498018242],
+                [-122.6617956161499, 45.527869947749586],
+                [-122.6617956161499, 45.529914321737415],
+                [-122.6625707745552, 45.52993686956563],
+                [-122.66256272792816, 45.529863589090844],
+                [-122.66208529472351, 45.529854194151284],
+                [-122.66197264194487, 45.52985043617502]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66180634498596, 45.52968884295801]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Holladay at MLK - Community Corral",
+        "racks_amount": 8,
+        "has_kiosk": false,
+        "address": "The Dream, Northeast Holladay Street, Lloyd District, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65780448913574, 45.5314851321501],
+                [-122.65780448913574, 45.531368638147136],
+                [-122.6570239663124, 45.53137239602196],
+                [-122.65702933073042, 45.531481374282784],
+                [-122.65780448913574, 45.5314851321501]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65746116638182, 45.531409974756464]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Multnomah at 9th",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "796-842 Northeast Multnomah Street, Portland",
+        "current_bikes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66005754470825, 45.53148325321648],
+                [-122.66006290912628, 45.5314231273076],
+                [-122.65964716672896, 45.53142876411426],
+                [-122.65965521335602, 45.53148701108364],
+                [-122.66005754470825, 45.53148325321648]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6597410440445, 45.53146070600817]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Multnomah at Grand",
+        "racks_amount": 16,
+        "has_kiosk": false,
+        "address": "564-598 Northeast Multnomah Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65013337135314, 45.52432218124893],
+                [-122.65011191368103, 45.52426768520936],
+                [-122.64972835779189, 45.524378556406745],
+                [-122.64974445104599, 45.524438689846136],
+                [-122.65013337135314, 45.52432218124893]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64976859092711, 45.52440674396447]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Sandy at 16th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1527-1541 Northeast Sandy Boulevard, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66047060489655, 45.55649193428286],
+                [-122.66047060489655, 45.556428078915],
+                [-122.66016751527785, 45.556428078915],
+                [-122.6601728796959, 45.55648817808676],
+                [-122.66047060489655, 45.55649193428286]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66037940979004, 45.556454372310554]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Going at Grand",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "4600-4722 Northeast Grand Avenue, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63688057661055, 45.51205258518279],
+                [-122.63688057661055, 45.51198867933558],
+                [-122.63623952865599, 45.51198116099585],
+                [-122.63623952865599, 45.51205070560008],
+                [-122.63688057661055, 45.51205258518279]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6363119482994, 45.51202352994066]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 29th at Hawthorne",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2835, Southeast Hawthorne Boulevard, Ladd's Addition, Belmont, Portland, Oregon",
+        "current_bikes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6633834838867, 45.5063318628957],
+                [-122.66328155994415, 45.50632810334813],
+                [-122.66329497098923, 45.50612508740703],
+                [-122.6633834838867, 45.50612320762639],
+                [-122.6633834838867, 45.5063318628957]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66333788633347, 45.50624163368495]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 2nd Pl at Tilikum Way",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2254-2398 Southeast 2nd Place, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65655994415283, 45.5164478959209],
+                [-122.65670746564864, 45.516451654792554],
+                [-122.65670746564864, 45.516141547038565],
+                [-122.65655994415283, 45.51615658260544],
+                [-122.65655994415283, 45.5164478959209]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65663236379623, 45.51633325021543]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 9th at Belmont",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "900-928 Southeast 9th Avenue, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66033649444581, 45.51792135435953],
+                [-122.66034185886383, 45.51778979713904],
+                [-122.65975713729857, 45.517786038356796],
+                [-122.6597625017166, 45.51792511313275],
+                [-122.66033649444581, 45.51792135435953]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66005218029024, 45.51789880171501]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Alder at 6th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "509-599 Southeast Alder Street, Portland",
+        "current_bikes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63091802597044, 45.51659825059046],
+                [-122.63092339038847, 45.516470449146944],
+                [-122.63038158416748, 45.51646293140592],
+                [-122.6303869485855, 45.5165944917286],
+                [-122.63091802597044, 45.51659825059046]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63075172901152, 45.51649676123257]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Belmont at 33rd",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "3301-3333 Southeast Belmont Street, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64546632766722, 45.512288550610535],
+                [-122.64499694108963, 45.512299828058175],
+                [-122.64500498771667, 45.51220772883639],
+                [-122.64521420001982, 45.5121964513703],
+                [-122.6454770565033, 45.51220396968128],
+                [-122.64546632766722, 45.512288550610535]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.645426094532, 45.512222765454325]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Hawthorne at 20th",
+        "racks_amount": 13,
+        "has_kiosk": false,
+        "address": "2003-2033 Southeast Hawthorne Boulevard, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65320986509323, 45.512158859800365],
+                [-122.65344858169556, 45.51209683365504],
+                [-122.65329837799072, 45.511970901574024],
+                [-122.65328764915466, 45.51207239909419],
+                [-122.65317231416702, 45.5121193886249],
+                [-122.65316762030125, 45.51212126820532],
+                [-122.65316896140574, 45.51213724463625],
+                [-122.653166949749, 45.512153221062704],
+                [-122.65320986509323, 45.512158859800365]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.653349339962, 45.51208179700347]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Ladd at Hawthorne",
+        "racks_amount": 17,
+        "has_kiosk": true,
+        "address": "1202-1210 Southeast Hawthorne Boulevard, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67905831336974, 45.52285076965074],
+                [-122.67905831336974, 45.52263465870356],
+                [-122.6789590716362, 45.52263653793277],
+                [-122.67895102500916, 45.52289023329928],
+                [-122.67900332808493, 45.52288553524733],
+                [-122.67906367778777, 45.52288835407857],
+                [-122.67905831336974, 45.52285076965074]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6789939403534, 45.52276526498393]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Park at W Burnside - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "Balfour–Guthrie Building, 733, Southwest Oak Street, Pearl District, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66705542802809, 45.55337942888947],
+                [-122.66676574945448, 45.553388819898736],
+                [-122.66677379608153, 45.55332120459698],
+                [-122.66706347465517, 45.553317448188935],
+                [-122.66705542802809, 45.55337942888947]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66691461205482, 45.55335313404383]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Mason at Williams",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "4073, North Williams Avenue, Albina, Portland, Oregon",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69048720598221, 45.52867605629243],
+                [-122.69053548574446, 45.52868169337445],
+                [-122.69052475690842, 45.528559556471265],
+                [-122.69047915935516, 45.52856331453376],
+                [-122.69048720598221, 45.52867605629243]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69050732254982, 45.52862062492286]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 19th at Johnson",
+        "racks_amount": 15,
+        "has_kiosk": false,
+        "address": "801-811 Northwest 19th Avenue, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6597625017166, 45.512906927320365],
+                [-122.65975177288055, 45.512264116132904],
+                [-122.6587700843811, 45.51227163443485],
+                [-122.65873789787292, 45.512895649994405],
+                [-122.6597625017166, 45.512906927320365]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65943527221678, 45.51269265774034]
+          }
+        ]
+      },
+      "properties": {
+        "name": "Workshop",
+        "racks_amount": 50,
+        "has_kiosk": false,
+        "address": "606 Southeast Madison Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6372641324997, 45.5238651293162],
+                [-122.63712197542189, 45.5238651293162],
+                [-122.63712197542189, 45.523603921558944],
+                [-122.63729095458986, 45.52362230245023],
+                [-122.6372641324997, 45.5238651293162]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63720646500587, 45.523734525437575]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 28th at Couch - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "108 Northeast 28th Avenue, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63730838894843, 45.52071948597378],
+                [-122.63716220855711, 45.52071948597378],
+                [-122.63716220855711, 45.52046672046956],
+                [-122.63731375336647, 45.52046766012037],
+                [-122.63730838894843, 45.52071948597378]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6372379809618, 45.52059310322167]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 28th at Pine - Community Corral",
+        "racks_amount": 24,
+        "has_kiosk": false,
+        "address": "304 Southeast 28th Avenue, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66065299510954, 45.52779854363872],
+                [-122.6606583595276, 45.52797517469514],
+                [-122.66005754470825, 45.52797353052565],
+                [-122.66005754470825, 45.52745655427204],
+                [-122.6606583595276, 45.52745655427204],
+                [-122.66065299510954, 45.52779854363872]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66035258769989, 45.52771962320018]
+          }
+        ]
+      },
+      "properties": {
+        "name": "Metro Campus - Community Corral",
+        "racks_amount": 8,
+        "has_kiosk": false,
+        "address": "Apotheker Plaza, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6555648446083, 45.559160237334574],
+                [-122.65529394149779, 45.55916211534336],
+                [-122.65529394149779, 45.559113287094824],
+                [-122.65556752681731, 45.55911140908441],
+                [-122.6555648446083, 45.559160237334574]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65543073415755, 45.55913676221388]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Alberta at 10th - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1006 Northeast Alberta Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65165686607361, 45.559233068816326],
+                [-122.65121161937714, 45.559229312803474],
+                [-122.6512062549591, 45.559105364238],
+                [-122.65165686607361, 45.559105364238],
+                [-122.65165686607361, 45.559233068816326]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65143156051636, 45.55916921652717]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Alberta at 14th - Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "1413 Northeast Alberta Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64775425195693, 45.55903628861673],
+                [-122.6473331451416, 45.55903628861673],
+                [-122.64733582735062, 45.55910242984629],
+                [-122.64775425195693, 45.55910577505284],
+                [-122.64775425195693, 45.55903628861673]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64754369854927, 45.55907103183479]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Alberta at 17th - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "Courtesy Janitorial Services, 1705, Northeast Alberta Street, Alameda, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64287531375885, 45.55908511693214],
+                [-122.64254540205002, 45.55908511693214],
+                [-122.64254540205002, 45.55902689855121],
+                [-122.6428672671318, 45.55902502053789],
+                [-122.64287531375885, 45.55908511693214]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64271035790443, 45.55905506873501]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Alberta at 22nd - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2209 Northeast Alberta Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64085963368416, 45.55911349250222],
+                [-122.64085829257965, 45.55905809116906],
+                [-122.64064505696295, 45.559059030175156],
+                [-122.64064371585846, 45.55911724852283],
+                [-122.64085963368416, 45.55911349250222]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64075167477131, 45.559087669845944]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Alberta at 24th - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "Northeast Alberta & 24th, Northeast Alberta Street, Alameda, Portland, Oregon",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63538390398024, 45.55898182621483],
+                [-122.63537853956223, 45.559051312718296],
+                [-122.63571113348006, 45.559064458803874],
+                [-122.63571381568907, 45.558983704229576],
+                [-122.63538390398024, 45.55898182621483]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63554617762566, 45.55902314250935]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Alberta at NE 29th/30th - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "Ampersand, 2916, Northeast Alberta Street, Alameda, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63067126274107, 45.56477373603087],
+                [-122.63039231300353, 45.56476998038839],
+                [-122.63039231300353, 45.56430803444961],
+                [-122.63066589832306, 45.56430803444961],
+                [-122.63067126274107, 45.56477373603087]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63053715229033, 45.56453067448834]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 33rd at Jarrett (Kennedy School) - Community Corral",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "Kennedy School, 5736, Northeast 33rd Avenue, Alameda, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63064980506897, 45.561268790843386],
+                [-122.63064444065095, 45.56150165471357],
+                [-122.63001143932343, 45.56150916643522],
+                [-122.63001143932343, 45.561261279089564],
+                [-122.63064980506897, 45.561268790843386]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6303306221962, 45.5613852227624]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 33rd at Emerson - Community Corral",
+        "racks_amount": 20,
+        "has_kiosk": false,
+        "address": "5320 Northeast 33rd Avenue, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65072613954544, 45.55581957118103],
+                [-122.65059471130371, 45.55581874950333],
+                [-122.65059739351273, 45.555545364925074],
+                [-122.65073418617247, 45.555548299502526],
+                [-122.65072613954544, 45.55581957118103]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6506644487381, 45.555683524502925]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 14th Pl at Prescott - Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "4520 Northeast 14th Place, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65095144510269, 45.54831034392956],
+                [-122.65094876289369, 45.54825399275893],
+                [-122.65066444873808, 45.54825399275893],
+                [-122.65066981315613, 45.54831368977856],
+                [-122.65095144510269, 45.54831034392956]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65081062912941, 45.54828551419491]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Fremont at 15th - Community Corral",
+        "racks_amount": 10,
+        "has_kiosk": false,
+        "address": "1441-1499 Northeast Fremont Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67710566520691, 45.56265469223633],
+                [-122.67695546150208, 45.56265469223633],
+                [-122.67696619033812, 45.562384275136864],
+                [-122.67709493637086, 45.562377585114],
+                [-122.67710566520691, 45.56265469223633]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67703056335449, 45.5625194836866]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Michigan at Killingsworth - Community Corral",
+        "racks_amount": 8,
+        "has_kiosk": false,
+        "address": "5433 North Michigan Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68489211797714, 45.56252969491071],
+                [-122.6848116517067, 45.56252969491071],
+                [-122.6848116517067, 45.5624066925761],
+                [-122.68488943576813, 45.5624090986358],
+                [-122.68489211797714, 45.56252969491071]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68483579158783, 45.56244706741791]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Concord at Killingsworth - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "5410-5498 North Concord Avenue, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68923461437225, 45.56280950074516],
+                [-122.68877863883974, 45.56280198919734],
+                [-122.68876791000365, 45.56276067566636],
+                [-122.68877327442168, 45.562708094764844],
+                [-122.68923461437225, 45.56271185054513],
+                [-122.68923997879028, 45.5627381410003],
+                [-122.68923461437225, 45.56280950074516]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68899321556091, 45.562741896778604]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Killingsworth at Gay - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "2116 North Killingsworth Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63494133949278, 45.56270246109388],
+                [-122.6349440217018, 45.562734385221745],
+                [-122.63518273830412, 45.562735324166425],
+                [-122.63518273830412, 45.56270152214867],
+                [-122.63494133949278, 45.56270246109388]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6350486278534, 45.56271654527019]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Killingsworth at 30th - Community Corral",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "Cocotte, 2930, Northeast Killingsworth Street, Alameda, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.64804728329182, 45.56272536254957],
+                [-122.64804795384407, 45.56276479821824],
+                [-122.64807142317294, 45.56276573716238],
+                [-122.64807142317294, 45.56272499577427],
+                [-122.64804728329182, 45.56272536254957]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64805935323238, 45.562745549855975]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 17th at Killingsworth - Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "Podnah's BBQ Pit, Northeast Killingsworth Street, Alameda, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62083828449249, 45.512041542690866],
+                [-122.62083828449249, 45.51195132263249],
+                [-122.62103140354156, 45.5118603189641],
+                [-122.62106359004974, 45.51170321672626],
+                [-122.62125670909883, 45.51167314320877],
+                [-122.6212352514267, 45.51205657935321],
+                [-122.62083828449249, 45.512041542690866]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.62104749679565, 45.51186486128098]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 40th at Hawthorne",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "4034 Southeast Hawthorne Boulevard, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67255932092667, 45.51763380746472],
+                [-122.67262369394304, 45.51765260142431],
+                [-122.67244666814803, 45.51801720299795],
+                [-122.67237961292268, 45.5180021679282],
+                [-122.67255932092667, 45.51763380746472]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67249628901482, 45.51782550555786]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Naito at Morrison",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "679-695 Pacific Highway West, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68208384513854, 45.56192219221113],
+                [-122.68200337886809, 45.561923131169344],
+                [-122.68200740218163, 45.562039561869064],
+                [-122.68208652734755, 45.5620414397816],
+                [-122.68208384513854, 45.56192219221113]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68203690648079, 45.5619710180186]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Interstate at Willamette - Community Corral",
+        "racks_amount": 8,
+        "has_kiosk": false,
+        "address": "Interstate Firehouse Cultural Center, 5340, North Interstate Avenue, Piedmont, Portland, Oregon",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67751336097717, 45.52515652781534],
+                [-122.67766624689102, 45.525153709097786],
+                [-122.67765283584593, 45.524864320009236],
+                [-122.67750263214111, 45.52486713874129],
+                [-122.67751336097717, 45.52515652781534]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67755627632141, 45.52507854324387]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Broadway at Everett",
+        "racks_amount": 18,
+        "has_kiosk": true,
+        "address": "700-748 Northwest Everett Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68642634153365, 45.5329202080837],
+                [-122.68642365932465, 45.53287699369733],
+                [-122.68609374761581, 45.53288075147137],
+                [-122.68610179424286, 45.532924376861054],
+                [-122.68642634153365, 45.5329202080837]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68626004457474, 45.53290423754687]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Pettygrove at 15th",
+        "racks_amount": 18,
+        "has_kiosk": false,
+        "address": "1497-1499 Northwest Pettygrove Street, Portland",
+        "current_bikes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67193166306242, 45.4943859406758],
+                [-122.6718753366731, 45.49438406050316],
+                [-122.6718753366731, 45.494203563639246],
+                [-122.67193434527144, 45.494209204175014],
+                [-122.67193166306242, 45.4943859406758]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67190484097227, 45.49429475215752]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Moody at Thomas",
+        "racks_amount": 15,
+        "has_kiosk": false,
+        "address": "4000 Southwest Moody Avenue, Portland",
+        "current_bikes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66180634498596, 45.523557352692485],
+                [-122.66191765666007, 45.52355923189085],
+                [-122.66204640269281, 45.52355923189085],
+                [-122.66204103827475, 45.52362218500049],
+                [-122.66193106770515, 45.52362594339285],
+                [-122.66180366277695, 45.52362594339285],
+                [-122.66180634498596, 45.523557352692485]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66191765666007, 45.5235883594578]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Couch at MLK",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "Northeast Martin Luther King & East Burnside, Northeast Martin Luther King, Junior Boulevard, Ladd's Addition, Lloyd District, Portland, Oregon",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61950254440308, 45.51663795355332],
+                [-122.61865496635437, 45.516617044895895],
+                [-122.61868715286255, 45.51639151281627],
+                [-122.61949181556702, 45.51639903056682],
+                [-122.61950254440308, 45.51663795355332]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61899828910826, 45.51645917253505]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Belmont at 42nd",
+        "racks_amount": 11,
+        "has_kiosk": false,
+        "address": "4220 Southeast Belmont Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.66368120908737, 45.53553408827247],
+                [-122.66360878944397, 45.53553220947414],
+                [-122.66360878944397, 45.53576330119971],
+                [-122.66367986798286, 45.53576424059503],
+                [-122.66368120908737, 45.53558481580409],
+                [-122.66368120908737, 45.53553408827247]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.66363427042961, 45.53561393714415]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 2nd at NE Schuyler",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "1760-1798 Northeast 2nd Avenue, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.70449638366699, 45.52182952066624],
+                [-122.70449638366699, 45.52179193553108],
+                [-122.70432472229002, 45.52178817701615],
+                [-122.704319357872, 45.5218483132244],
+                [-122.70448565483092, 45.5218483132244],
+                [-122.70449638366699, 45.52182952066624]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.7044078707695, 45.52181824512027]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SW Park at SW Wright (Oregon Holocaust Memorial) Community Corral",
+        "racks_amount": 4,
+        "has_kiosk": false,
+        "address": "2609 Southwest Park Place, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.68869817256929, 45.537838504612424],
+                [-122.68862843513489, 45.53668871540786],
+                [-122.68708884716034, 45.53707198108831],
+                [-122.68855333328247, 45.5379174108526],
+                [-122.68869817256929, 45.537838504612424]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.68810272216797, 45.53715171035475]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Front at 17th",
+        "racks_amount": 15,
+        "has_kiosk": false,
+        "address": "2035 Northwest Front Avenue, Portland",
+        "current_bikes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61609748005867, 45.516558782528584],
+                [-122.61609613895415, 45.51660180388931],
+                [-122.615976780653, 45.51660294916741],
+                [-122.615976780653, 45.516578516562966],
+                [-122.61597007513045, 45.516568179688676],
+                [-122.61597275733946, 45.51656066196073],
+                [-122.61598750948905, 45.51655972224466],
+                [-122.61609748005867, 45.516558782528584]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61603780090809, 45.516584889007284]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Belmont at 45th - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "4505 Southeast Belmont Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62366533279418, 45.493265919539866],
+                [-122.62366533279418, 45.49344641940896],
+                [-122.6231825351715, 45.4934380760033],
+                [-122.62317985296248, 45.493258398699425],
+                [-122.62334883213042, 45.493265919539866],
+                [-122.62347221374513, 45.493265919539866],
+                [-122.62366533279418, 45.493265919539866]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6233971118927, 45.493336544791546]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 37th at Gladstone - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "3816-3824 Southeast Gladstone Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6188588142395, 45.536538414427945],
+                [-122.61866569519042, 45.53665865524402],
+                [-122.61841893196106, 45.53665114020053],
+                [-122.61838138103484, 45.5365196267772],
+                [-122.61871933937074, 45.53651211171514],
+                [-122.6188588142395, 45.536538414427945]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61862009763718, 45.536585383479576]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 43rd at Hancock - Community Corral",
+        "racks_amount": 10,
+        "has_kiosk": false,
+        "address": "4301-4399 Northeast Hancock Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61144518852234, 45.54833957607709],
+                [-122.61140763759613, 45.54817427923565],
+                [-122.61090338230134, 45.54817427923565],
+                [-122.61088192462921, 45.54833206259483],
+                [-122.6111716032028, 45.54837714347325],
+                [-122.61144518852234, 45.548358359778305],
+                [-122.61144518852234, 45.54833957607709]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61116355657578, 45.54827571135445]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 50th at Fremont - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "5005 Northeast Fremont Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6023229956627, 45.553860657400485],
+                [-122.60210037231445, 45.55383624097813],
+                [-122.60203063488005, 45.55390573384469],
+                [-122.60193139314651, 45.55401842479697],
+                [-122.6021111011505, 45.55404096296032],
+                [-122.60223984718321, 45.55392827205323],
+                [-122.6023229956627, 45.553860657400485]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.60207086801528, 45.55391700295009]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Cully at Skidmore - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "5931 Northeast Skidmore Street, Portland, OR",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6355367898941, 45.493294122682535],
+                [-122.63620734214783, 45.49330164351819],
+                [-122.63620734214783, 45.493421976752245],
+                [-122.6355367898941, 45.49341821634255],
+                [-122.6355367898941, 45.493294122682535]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63576209545137, 45.49334112788896]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 29th and Gladstone - Community Corral",
+        "racks_amount": 9,
+        "has_kiosk": false,
+        "address": "2886 Southeast Gladstone Street, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61102676391602, 45.5052307746723],
+                [-122.61098384857179, 45.50535108241482],
+                [-122.6107907295227, 45.50535108241482],
+                [-122.6107907295227, 45.5052307746723],
+                [-122.61102676391602, 45.5052307746723]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61088460683823, 45.50528481919783]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 50th at Division - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "5008-5022 Southeast Division Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61423468589781, 45.51200684863335],
+                [-122.61423468589781, 45.51189407346827],
+                [-122.61408448219298, 45.51190159181966],
+                [-122.61409521102905, 45.51200684863335],
+                [-122.61423468589781, 45.51200684863335]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.6141595840454, 45.51195046105081]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 47th at Hawthorne- Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "4638-4698 Southeast Hawthorne Boulevard, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63658821582794, 45.526486946741606],
+                [-122.63612151145936, 45.52648318854036],
+                [-122.6361161470413, 45.52641929908089],
+                [-122.63658821582794, 45.526423057286415],
+                [-122.63658821582794, 45.526486946741606]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63624489307405, 45.52643433190143]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 28th at Glisan- Community Corral",
+        "racks_amount": 15,
+        "has_kiosk": false,
+        "address": "2852 Northeast Glisan Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61154174804686, 45.51201272233367],
+                [-122.61143445968628, 45.511772135066785],
+                [-122.61117696762084, 45.511772135066785],
+                [-122.61106967926025, 45.51201272233367],
+                [-122.61154174804686, 45.51201272233367]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61130571365356, 45.51189242870023]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 50th at Hawthorne- Community Corral",
+        "racks_amount": 9,
+        "has_kiosk": false,
+        "address": "5008 Southeast Hawthorne Boulevard, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61222839355467, 45.505292573408084],
+                [-122.61218547821044, 45.505179784789796],
+                [-122.61205673217772, 45.505179784789796],
+                [-122.61199235916139, 45.505292573408084],
+                [-122.61222839355467, 45.505292573408084]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61211037635803, 45.505236179098944]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 49th at Division - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "4846-4848 Southeast Division Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63481259346008, 45.52645981722076],
+                [-122.634619474411, 45.52646733362611],
+                [-122.634619474411, 45.52639592773476],
+                [-122.63481795787811, 45.526392169527455],
+                [-122.63481259346008, 45.52645981722076]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63471871614456, 45.526429751576785]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 30th at Glisan - Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "2948 Northeast Glisan Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62536048889159, 45.50475118597927],
+                [-122.62536048889159, 45.50467599286903],
+                [-122.6251995563507, 45.50467599286903],
+                [-122.6251995563507, 45.504788782496725],
+                [-122.62533903121948, 45.504788782496725],
+                [-122.62536048889159, 45.50475118597927]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.62528002262114, 45.50473238768288]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 37th at Division - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "3652 Southeast Division Street, Portland",
+        "current_bikes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62073099613188, 45.53575684285646],
+                [-122.62053787708282, 45.53583575201774],
+                [-122.62049496173859, 45.535798176240455],
+                [-122.6206934452057, 45.53571926702646],
+                [-122.62073099613188, 45.53575684285646]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.62061297893524, 45.5357775095221]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 41st at Sandy Blvd (Hollywood Theatre) Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "4144-4152 Northeast Sandy Boulevard, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.62002557516098, 45.53668202232589],
+                [-122.62001752853394, 45.53654111515222],
+                [-122.61991828680037, 45.53653923638752],
+                [-122.61992096900939, 45.53668390108583],
+                [-122.62002557516098, 45.53668202232589]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61996656656264, 45.53658432672301]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 42nd at Hancock  - Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "1898 Northeast 42nd Avenue, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.61383771896361, 45.54819388478133],
+                [-122.61351585388182, 45.54819435437514],
+                [-122.61351585388182, 45.54838970506575],
+                [-122.61383771896361, 45.54838923547357],
+                [-122.61383771896361, 45.54819388478133]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.61367678642272, 45.548307056666516]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 48th at Fremont - Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "4759B Northeast Fremont Street, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.6434600353241, 45.53902666587544],
+                [-122.64346539974213, 45.53885006952545],
+                [-122.64334201812744, 45.53885758427504],
+                [-122.64319181442261, 45.53885758427504],
+                [-122.64319181442261, 45.53903042323855],
+                [-122.6434600353241, 45.53902666587544]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.64328837394713, 45.538936489085174]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 22nd at Thompson - Community Corral (Irvington Tennis Club)",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "2100-2198 Northeast Thompson Street, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69464731216429, 45.562655513814086],
+                [-122.69464462995528, 45.562726462875546],
+                [-122.69460439682005, 45.56273585232277],
+                [-122.69459635019302, 45.56265698091714],
+                [-122.69464731216429, 45.562655513814086]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69460439682005, 45.56267617062201]
+          }
+        ]
+      },
+      "properties": {
+        "name": "N Burrage at Killingsworth Community Corral",
+        "racks_amount": 12,
+        "has_kiosk": false,
+        "address": "5425-5499 North Burrage Avenue, Portland",
+        "current_bikes": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65564799308775, 45.53431015527637],
+                [-122.65548169612885, 45.53431015527637],
+                [-122.655508518219, 45.533701408078976],
+                [-122.65565335750578, 45.53370892351667],
+                [-122.65564799308775, 45.53431015527637]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65556752681732, 45.53400578167768]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE 10th at Halsey -- Community Corral",
+        "racks_amount": 8,
+        "has_kiosk": false,
+        "address": "1541-1599 Northeast 10th Avenue, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.69672468304633, 45.54126110778736],
+                [-122.69672065973282, 45.541235746587596],
+                [-122.69661873579024, 45.541250775448084],
+                [-122.6966281235218, 45.54127989385384],
+                [-122.69672468304633, 45.54126110778736]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.69667170941828, 45.54125782022072]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW Nicolai at Sherlock Community Corral",
+        "racks_amount": 4,
+        "has_kiosk": false,
+        "address": "Northwest Nicolai Street, Kings Heights, Portland, Oregon",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65665382146834, 45.5228958709611],
+                [-122.65658140182494, 45.52289399174057],
+                [-122.65658944845201, 45.52268163941488],
+                [-122.65665650367735, 45.522685397870085],
+                [-122.65665382146834, 45.5228958709611]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65661627054213, 45.52279251373802]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 9th at Burnside",
+        "racks_amount": 14,
+        "has_kiosk": false,
+        "address": "2-98 Southeast 9th Avenue, Portland",
+        "current_bikes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.5943273305893, 45.56259542123866],
+                [-122.59429782629012, 45.56257288650632],
+                [-122.59442389011382, 45.56245645691185],
+                [-122.594456076622, 45.56247523589503],
+                [-122.5943273305893, 45.56259542123866]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.59437024593353, 45.562507160152]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NE Cully at Killingsworth - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "5410 Northeast Cully Boulevard, Portland",
+        "current_bikes": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.65681207180023, 45.51310157830956],
+                [-122.65669941902159, 45.51309864151631],
+                [-122.65671014785768, 45.51295203660171],
+                [-122.65682280063628, 45.51295497340262],
+                [-122.65681207180023, 45.51310157830956]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.65672624111176, 45.51299714584687]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE 9th at Madison",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "1325-1399 Southeast 9th Avenue, Portland",
+        "current_bikes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.63546973470966, 45.497263228147894],
+                [-122.63532757763186, 45.49722938676026],
+                [-122.63534635309497, 45.49719742543105],
+                [-122.63548314575472, 45.49724066722505],
+                [-122.63546973470966, 45.497263228147894]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.63540536169329, 45.49723032678947]
+          }
+        ]
+      },
+      "properties": {
+        "name": "SE Powell Blvd at 29th Ave - Community Corral",
+        "racks_amount": 6,
+        "has_kiosk": false,
+        "address": "2896-2898 Southeast Powell Boulevard, Portland",
+        "current_bikes": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-122.67483115196227, 45.52379747850264],
+                [-122.67483115196227, 45.5237768074045],
+                [-122.67464607954025, 45.52378056578654],
+                [-122.67464607954025, 45.52380123688332],
+                [-122.67483115196227, 45.52379747850264]
+              ]
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [-122.67473861575127, 45.523789022143916]
+          }
+        ]
+      },
+      "properties": {
+        "name": "NW 4th at Couch",
+        "racks_amount": 7,
+        "has_kiosk": false,
+        "address": "400 Northwest Couch Street, Portland",
+        "current_bikes": 4
+      }
+    }
+  ]
+}

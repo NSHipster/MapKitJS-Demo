@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>#get(title)</title>
+    <link rel="stylesheet" href="/styles/application.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <div id="attribution">
+      BIKETOWN
+    </div>
+
+    <script src="https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js"></script>
+    <script src="/scripts/application.js"></script>
+  </body>
+</html>
